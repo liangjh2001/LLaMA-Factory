@@ -151,7 +151,7 @@ def create_reward_model(
         logger.info_rank0(f"Use reward server {finetuning_args.reward_model}")
         return finetuning_args.reward_model
     elif finetuning_args.reward_model_type == "lora":
-        model.pretrained_model.load_adapter(finetuning_args.reward_model, "reward")
+        model.pretrained_model.load_adapter(finetuning_args.reward_model, "reward")  # load RM LoRA adapter
         for name, param in model.named_parameters():  # https://github.com/huggingface/peft/issues/1090
             if "default" in name:
                 param.data = param.data.to(torch.float32)  # trainable params should in fp32

@@ -93,3 +93,24 @@ def plot_loss(save_dictionary: str, keys: list[str] = ["loss"]) -> None:
         figure_path = os.path.join(save_dictionary, "training_{}.png".format(key.replace("/", "_")))
         plt.savefig(figure_path, format="png", dpi=100)
         print("Figure saved at:", figure_path)
+
+
+def save_loss_and_step(save_dictionary: os.PathLike) -> None:
+    with open(os.path.join(save_dictionary, TRAINER_STATE_NAME), "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    # 提取所有eval_loss和对应的step
+    eval_losses = []
+    for log in data['log_history']:
+        if 'eval_loss' in log:
+            eval_losses.append((log['eval_loss'], log['step']))
+
+    # 按照eval_loss从低到高排序
+    eval_losses.sort()
+
+    # 将结果写入一个txt文件
+    with open(os.path.join(save_dictionary, 'sorted_eval_losses.txt'), 'w') as output_file:
+        for loss, step in eval_losses:
+            output_file.write(f"Step: {step}, Eval Loss: {loss}\n")
+
+    print("Results have been written to sorted_eval_losses.txt")

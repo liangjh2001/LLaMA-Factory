@@ -20,7 +20,7 @@ from typing import TYPE_CHECKING, Optional
 from ...data import PairwiseDataCollatorWithPadding, get_dataset, get_template_and_fix_tokenizer
 from ...extras.constants import IGNORE_INDEX
 from ...extras.misc import calculate_tps
-from ...extras.ploting import plot_loss
+from ...extras.ploting import plot_loss, save_loss_and_step
 from ...hparams import ModelArguments
 from ...model import load_model, load_tokenizer
 from ..trainer_utils import create_modelcard_and_push, create_ref_model
@@ -92,6 +92,7 @@ def run_dpo(
         trainer.save_state()
         if trainer.is_world_process_zero() and finetuning_args.plot_loss:
             plot_loss(training_args.output_dir, keys=["loss", "eval_loss", "rewards/accuracies"])
+            save_loss_and_step(training_args.output_dir)
 
     # Evaluation
     if training_args.do_eval:

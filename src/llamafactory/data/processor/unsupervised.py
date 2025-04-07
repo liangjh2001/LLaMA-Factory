@@ -75,7 +75,7 @@ class UnsupervisedDatasetProcessor(DatasetProcessor):
                 videos=examples["_videos"][i] or [],
                 audios=examples["_audios"][i] or [],
             )
-            model_inputs["input_ids"].append(input_ids)
+            model_inputs["input_ids"].append(input_ids)  # 这里input_ids只包含prompt部分
             model_inputs["attention_mask"].append([1] * len(input_ids))
             model_inputs["labels"].append(labels)
             model_inputs["images"].append(examples["_images"][i])

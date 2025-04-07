@@ -231,7 +231,7 @@ class CustomPPOTrainer(PPOTrainer, Trainer):
 
         for step in tqdm(range(max_steps), disable=not self.is_local_process_zero()):
             try:
-                batch = next(dataiter)
+                batch = next(dataiter)  # 只取prompt作为输入，label忽略
             except StopIteration:
                 dataiter = iter(self.dataloader)
                 batch = next(dataiter)
@@ -245,12 +245,13 @@ class CustomPPOTrainer(PPOTrainer, Trainer):
                     "input_ids": batch["input_ids"][idx : idx + self.config.mini_batch_size],
                     "attention_mask": batch["attention_mask"][idx : idx + self.config.mini_batch_size],
                 }
-                mini_batch_queries, mini_batch_responses = self.get_inputs(mini_batch)
+                mini_batch_queries, mini_batch_responses = self.get_inputs(mini_batch)  # roll out得到模型的回答，不过还没解码
                 mini_batch_rewards = self.get_rewards(mini_batch_queries, mini_batch_responses)
                 queries.extend(mini_batch_queries)
                 responses.extend(mini_batch_responses)
                 rewards.extend(mini_batch_rewards)
 
+            # TODO: 找到KL散度在哪里
             # Run PPO step
             self.model.train()
             stats = self.step(queries, responses, rewards)
@@ -349,7 +350,7 @@ class CustomPPOTrainer(PPOTrainer, Trainer):
 
             generate_output: torch.Tensor = unwrapped_model.generate(
                 generation_config=self.generation_config, logits_processor=get_logits_processor(), **batch
-            )
+            )  # 进行推理得到的结果，roll out
             if self.model_args.upcast_layernorm:
                 restore_layernorm(unwrapped_model, layernorm_params)
 
@@ -398,6 +399,8 @@ class CustomPPOTrainer(PPOTrainer, Trainer):
 
         with unwrap_model_for_generation(reward_model, self.accelerator), self.amp_context:  # support bf16
             values: torch.Tensor = reward_model(**batch, return_dict=True, use_cache=False)[-1]
+            # 将拼接后的问题和模型输出的回答传入reward model，得到reward score
+            # 注意这个回答从头到尾没有解码成token，一直是token id形式
 
         if self.finetuning_args.reward_model_type == "lora":
             replace_model(unwrapped_model, target="default")
