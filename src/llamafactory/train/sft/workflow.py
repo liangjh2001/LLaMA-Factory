@@ -110,7 +110,12 @@ def run_sft(
         trainer.save_metrics("train", train_result.metrics)
         trainer.save_state()
         if trainer.is_world_process_zero() and finetuning_args.plot_loss:
-            plot_loss(training_args.output_dir, keys=["loss", "eval_loss", "eval_accuracy"])
+            keys = ["loss", "eval_accuracy"]
+            if isinstance(dataset_module.get("eval_dataset"), dict):
+                keys += [f"eval_{key}_loss" for key in dataset_module["eval_dataset"].keys()]
+            else:
+                keys += ["eval_loss"]
+            plot_loss(training_args.output_dir, keys=keys)
             save_loss_and_step(training_args.output_dir)
 
     if training_args.predict_with_generate:
