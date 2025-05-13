@@ -1798,3 +1798,11 @@ register_template(
     format_user=StringFormatter(slots=["<human>:{{content}}\n<bot>:"]),
     format_assistant=StringFormatter(slots=["{{content}}\n"]),
 )
+
+register_template(
+    name="cgec",
+    format_user=StringFormatter(slots=["### input:\n{{content}}\n\n### response:\n"]),
+    default_system=(
+        "纠正输入句子中的语法错误，并输出正确的句子。"
+    ),
+)

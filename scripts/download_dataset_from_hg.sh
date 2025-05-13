@@ -1,0 +1,2 @@
+export HF_ENDPOINT=https://hf-mirror.com
+huggingface-cli download --token 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 --resume-download --repo-type dataset liweili/c4_200m --local-dir /data/liangjh/model_set/datasets/c4_200m --local-dir-use-symlinks False

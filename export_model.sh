@@ -1,10 +1,10 @@
 #!/bin/bash
-export CUDA_VISIBLE_DEVICES=2
+export CUDA_VISIBLE_DEVICES=0
 
-base_model="/data/liangjh/model_set/Qwen2.5-0.5B-Instruct"
-lora_model="Qwen2.5-0.5B-Instruct-test"
-template="qwen"
-checkpoint="16"
+base_model="/data/liangjh/model_set/Qwen2-Audio-7B-Instruct"
+lora_model="Qwen2-Audio-7B-Instruct-audio_emotion_train"
+template="qwen2_audio"
+checkpoint="800"
 
 
 echo "----------------------------merge lora weight----------------------------"
@@ -14,5 +14,5 @@ python ./src/export_model.py \
     --template ${template} \
     --finetuning_type lora \
     --export_dir "/data/liangjh/LLaMA-Factory/output/${lora_model}/checkpoint-${checkpoint}/full-model" \
-    --export_size 2 \
+    --export_size 5 \
     --export_legacy_format False

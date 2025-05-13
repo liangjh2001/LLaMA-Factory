@@ -1,0 +1,6002 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592951482627330_20241201091013_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634830636762826_20241224115246_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578564868861715_20241123103645_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634655560226329_20241224093338_7.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3593243859128424_20241201130234_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573020753974925_20241120091041_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634786309344938_20241224111733_18.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634625712028533_20241224090955_10.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635279704193542_20241224174940_55.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578629431817984_20241123112804_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3600282215845498_20241205101609_13.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634687087237009_20241224095841_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3598376307288621_20241204090128_10.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578472829081692_20241123092337_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3596571322154990_20241203090700_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635003889339698_20241224141028_13.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/232642104533613739_20241224143330_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573279607568496_20241120123625_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3580309609124472_20241124094321_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634783540978943_20241224111521_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573023304138702_20241120091243_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573309565368283_20241120130013_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592974276564877_20241201092820_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634967173998327_20241224134117_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635203080531695_20241224164846_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3596608236168419_20241203093620_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3575148755043235_20241121132152_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3580292892726251_20241124093004_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634712777323059_20241224101906_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3602123221713513_20241206103915_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578564734716063_20241123103639_66.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3600351467997941_20241205111111_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594851418418501_20241202102009_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635204167338851_20241224164938_9.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634655946121288_20241224093356_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634785443201422_20241224111651_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/232642969566880315_20241224144415_57.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592980389787417_20241201093311_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634711310995944_20241224101756_14.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634762280599968_20241224105827_40.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635069162637604_20241224150220_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635068258847970_20241224150137_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635068248849186_20241224150137_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634761454361576_20241224105747_12.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592977309081006_20241201093044_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3609529397590903_20241210124509_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635238711639051_20241224171705_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/232644607291612603_20241224150435_25.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3607659398839750_20241209115901_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576639272302749_20241122090626_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592985898964356_20241201093734_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3598400273581397_20241204092031_7.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594764472560472_20241202091103_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3598471538959770_20241204101709_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578545031887717_20241123102100_10.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634738689297436_20241224103942_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3602010944391040_20241206091001_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594763069598071_20241202090956_8.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594764420176244_20241202091100_10.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/232643703603634357_20241224145322_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594776302623552_20241202092027_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594802714216741_20241202094126_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573267087554713_20241120122628_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3593069000754417_20241201104336_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/232645849342435785_20241224152000_11.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635283386698768_20241224175235_8.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594761945559265_20241202090902_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3497496220040275_20241009164911_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635137567593014_20241224155642_33.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592949091889140_20241201090819_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3600277490966066_20241205101224_15.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634762899310983_20241224105856_15.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3600224609183593_20241205093022_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634784138734485_20241224111549_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3593299928624030_20241201134708_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3596746329499934_20241203112605_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634760661042519_20241224105710_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576664729801351_20241122092640_67.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635324998995232_20241224182539_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578476486516886_20241123092631_9.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3598407978556776_20241204092639_7.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578489044264990_20241123093630_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634712011318464_20241224101830_27.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635035033648814_20241224143513_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3593005989645244_20241201095332_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3598398061054567_20241204091846_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576671467793919_20241122093201_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635134495173165_20241224155415_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634783540978943_20241224111521_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592998016260284_20241201094712_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634829869306486_20241224115210_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634738924687007_20241224103953_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594805536945030_20241202094341_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635032661786936_20241224143320_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594805641839979_20241202094346_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594823492790995_20241202095757_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594852158737420_20241202102044_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635035442489413_20241224143532_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634928458897826_20241224131031_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634786317611359_20241224111733_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634806998190603_20241224113359_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592966324133053_20241201092200_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635240241967025_20241224171818_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634807991717845_20241224113447_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576666206081448_20241122092750_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635069062564474_20241224150215_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634736692795537_20241224103807_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573235810637187_20241120120136_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634657884483011_20241224093529_24.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578493859336718_20241123094019_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3593003275994049_20241201095122_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634785472981280_20241224111653_19.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634684534979511_20241224095640_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635205259408065_20241224165030_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634806167787640_20241224113320_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3560415662008956_20241113101304_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578476618674755_20241123092637_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635032257414787_20241224143300_50.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592983122383659_20241201093521_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634829181870543_20241224115137_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576657236477575_20241122092042_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3595018359756021_20241202123249_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594808504378844_20241202094602_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3598398415533353_20241204091903_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635032695723360_20241224143321_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635035378021965_20241224143529_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594792222146616_20241202093306_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594852104233608_20241202102041_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634968661309577_20241224134228_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576821110120863_20241122113057_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634711789553173_20241224101819_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594764416027347_20241202091100_7.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634684082050144_20241224095618_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3607664350273723_20241209120257_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635033257273506_20241224143348_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634888438959581_20241224123843_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3598387847929435_20241204091039_7.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635204529630708_20241224164955_51.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3596598597662917_20241203092841_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634737319748482_20241224103837_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576638460751528_20241122090547_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3607540666322161_20241209102439_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634807793007778_20241224113437_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/232644799759821543_20241224150658_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634784644141388_20241224111613_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576636359354278_20241122090407_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634925360939415_20241224130803_14.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576684300233297_20241122094213_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634829139377079_20241224115135_15.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3603976336693331_20241207111159_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634807763748486_20241224113436_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3600330896999916_20241205105451_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635279045651086_20241224174908_23.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635202611331221_20241224164823_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573250998173251_20241120121340_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635068148232285_20241224150132_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634785097202897_20241224111635_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635104248505114_20241224153013_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3598436805949206_20241204094933_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576731290865292_20241122101934_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3598692306234748_20241204131236_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3598387344656090_20241204091015_11.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635003884633701_20241224141027_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635069378618985_20241224150230_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573257558045173_20241120121853_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576760680681344_20241122104255_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576758906424943_20241122104130_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635102582827358_20241224152854_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594759185735676_20241202090651_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3574846104601664_20241121092121_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594758992718561_20241202090641_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635036264626844_20241224143611_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3506650439582848_20241014180418_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573286444284023_20241120124151_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634969979880092_20241224134331_10.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635136227954155_20241224155538_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635239319733531_20241224171734_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594791723003816_20241202093242_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635003889339698_20241224141028_47.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634657603466797_20241224093515_60.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576757734136669_20241122104035_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3607664350273723_20241209120257_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635204186189394_20241224164939_9.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3596743687094996_20241203112359_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594882699564634_20241202104500_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592971248314387_20241201092555_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634927043397164_20241224130923_8.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592969595718017_20241201092436_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635135468363015_20241224155502_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573264812114075_20241120122439_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592986158992477_20241201093746_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635202290407957_20241224164808_30.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634969732483260_20241224134319_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3580278799880758_20241124091852_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634656711615480_20241224093433_17.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578490923322671_20241123093759_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635134533010965_20241224155417_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3600200942839745_20241205091134_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576665667021726_20241122092725_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634887459698801_20241224123756_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635240022286182_20241224171807_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635069536463374_20241224150238_7.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634783646410510_20241224111526_32.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635100884674820_20241224152733_16.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592950125757301_20241201090908_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634829630193192_20241224115158_8.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573303477341666_20241120125523_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634887419822007_20241224123754_31.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634624289545626_20241224090847_12.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634854957532593_20241224121206_21.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634685537458375_20241224095727_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576759338456334_20241122104151_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635203864838500_20241224164923_8.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3580309707717028_20241124094326_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592967955685322_20241201092318_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592917091376300_20241201084253_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3574902786367600_20241121100624_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634887463372661_20241224123756_22.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573249869895227_20241120121247_10.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635036365348210_20241224143616_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578564751447368_20241123103640_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634761244578203_20241224105737_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634684542941986_20241224095640_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576759000844146_20241122104135_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594912848240386_20241202110858_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634830395684881_20241224115235_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576683794875069_20241122094149_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3600223386513603_20241205092924_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573040479736841_20241120092622_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634807910005834_20241224113443_73.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3600192950566407_20241205090513_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3593295350530981_20241201134330_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634684295486109_20241224095628_15.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3600277490966066_20241205101224_8.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635003655982662_20241224141017_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634762500919163_20241224105837_18.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576669395753246_20241122093022_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3593292565479732_20241201134117_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634784604275275_20241224111611_12.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3609323811633241_20241210100146_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635101643280330_20241224152809_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634762280599968_20241224105827_23.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635068212620983_20241224150135_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635238711639051_20241224171705_23.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635136789976769_20241224155605_38.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634711477201320_20241224101804_31.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3593014789372675_20241201100031_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576758663209379_20241122104119_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576685023735410_20241122094247_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635370831757498_20241224190205_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635069221867417_20241224150223_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634967314405149_20241224134124_16.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634710376087245_20241224101712_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576667212696583_20241122092838_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592953701360160_20241201091158_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635371016288416_20241224190214_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594915587139431_20241202111108_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635372570806486_20241224190328_24.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635036183402240_20241224143608_9.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635170573074330_20241224162256_37.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635241238236883_20241224171905_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592943905593923_20241201090411_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573019848008786_20241120090958_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634808231308713_20241224113458_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635136191914536_20241224155536_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3593032023683039_20241201101413_7.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635068112458023_20241224150130_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592969048316552_20241201092410_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635069420608546_20241224150232_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634760948863811_20241224105723_41.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635241856862268_20241224171935_7.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3598548984723987_20241204111842_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635239558415296_20241224171745_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578626277679131_20241123112534_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3603941859648689_20241207104435_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634783568253989_20241224111522_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3574947998863508_20241121104220_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635068743160423_20241224150200_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576671012743103_20241122093139_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573022018585856_20241120091142_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592951482627330_20241201091013_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635102031369805_20241224152827_14.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635101261682196_20241224152751_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635067569432825_20241224150104_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634784049015875_20241224111545_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635033913689928_20241224143419_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576758216451611_20241122104058_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635202284129177_20241224164808_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3593000348352359_20241201094903_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578564734716063_20241123103639_34.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635036616994307_20241224143628_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634656208766537_20241224093409_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635135869467965_20241224155521_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635105208543870_20241224153059_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634684595285181_20241224095643_8.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635170086014412_20241224162233_67.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635327920323013_20241224182759_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3600239830334869_20241205094228_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576758193379444_20241122104056_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635035916966614_20241224143555_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634710741037734_20241224101729_8.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3596650049241095_20241203100934_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634711003230769_20241224101742_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634684872090884_20241224095656_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634929081370270_20241224131101_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578493425202508_20241123093959_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573316569828943_20241120130547_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594793052620672_20241202093346_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634806998190603_20241224113359_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3607534311837296_20241209101936_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635068374722535_20241224150143_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594850520851411_20241202101926_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634760296764871_20241224105652_12.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578564734716063_20241123103639_33.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573019275433178_20241120090931_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634806794203141_20241224113349_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634739094043289_20241224104001_9.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592989812217543_20241201094040_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634807144436375_20241224113406_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634572284521806_20241224082727_164.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/232645696736892132_20241224151807_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634830303351657_20241224115230_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3560622804709879_20241113125741_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635170436285245_20241224162249_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3603881362530259_20241207095630_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634762156893753_20241224105821_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594762172001827_20241202090913_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/232642837630852029_20241224144236_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634927502575669_20241224130945_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3598395804542033_20241204091658_7.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635068374722535_20241224150143_10.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578504277929963_20241123094836_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573016222049576_20241120090705_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592982969291384_20241201093514_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3593031983897294_20241201101411_12.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635169543332729_20241224162207_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635104424779789_20241224153022_16.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576726169869918_20241122101529_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573349123892106_20241120133139_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573265590162243_20241120122516_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578489572701203_20241123093655_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594764231439753_20241202091051_15.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592944322889885_20241201090431_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/232646044495017348_20241224152226_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635003618275833_20241224141015_206.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634658760965809_20241224093611_49.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634762500919163_20241224105837_50.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634658597494667_20241224093603_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578504831646214_20241123094903_7.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634656680158137_20241224093431_21.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634712152344414_20241224101837_14.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634968065224229_20241224134159_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594763600174841_20241202091021_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576664620549317_20241122092635_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573054906113389_20241120093750_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3593169001255478_20241201120305_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3594768027229731_20241202091352_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634686500017983_20241224095813_9.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634687013762901_20241224095838_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3600249487685680_20241205095009_13.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573051567462296_20241120093511_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573274524002413_20241120123222_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635101633418903_20241224152808_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634571183394730_20241224082635_35.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3576613582249650_20241122084601_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3578490476602140_20241123093738_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634656126975633_20241224093405_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3602141257152400_20241206105335_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3603882870281662_20241207095742_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634684042152588_20241224095616_16.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573232209764824_20241120115844_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/232646067983128963_20241224152243_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634657298799102_20241224093501_12.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3593038401208505_20241201101917_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635241319900924_20241224171909_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573311356299443_20241120130138_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573369789243862_20241120134805_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3592986345704545_20241201093755_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635102367384590_20241224152843_20.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573113410388089_20241120102420_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634710785025563_20241224101731_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634685826340424_20241224095741_36.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635202348665235_20241224164811_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634760860859463_20241224105719_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635002909400922_20241224140941_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3575193598506369_20241121135731_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634658404591966_20241224093554_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3602172792017015_20241206111839_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634575659193335_20241224083008_7.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635003044194957_20241224140947_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573237465324516_20241120120255_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3596739006180165_20241203112016_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635102977657017_20241224152913_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573260653508050_20241120122121_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3573257558045173_20241120121853_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635137287032150_20241224155629_7.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3635282136858555_20241224175136_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3558562857562775_20241112094035_0.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/fake/3600249487685680_20241205095009_11.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/VFD/real/3634761168565457_20241224105734_2.wav"
+    ]
+  }
+]

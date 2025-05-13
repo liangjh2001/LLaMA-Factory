@@ -1,0 +1,3002 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241673085693104700_20250312113656_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875050041949009_20250305142713_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113778006143428_20250307155139_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241316971029863092_20250309095449_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113822574723774_20250307155212_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990299978090856_20250306141821_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875065476927906_20250305142724_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773811891429794_20250304173004_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990313802455697_20250306141831_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113822709026946_20250307155212_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551022596670843_20250311102111_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990331930283009_20250306141844_right_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990336887958905_20250306141848_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875071105815411_20250305142728_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240622293087237703_20250303100834_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241550987289017187_20250311102045_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241550969446466458_20250311102032_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241550990250205191_20250311102047_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091288752048212_20250307111223_right_8.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241550963943452686_20250311102028_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241316997068129112_20250309095509_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240854628680435364_20250305101338_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644357148019669_20250303144233_right_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240969362146616061_20250306095821_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644365603632168_20250303144239_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875040244084980_20250305142705_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240622269330756777_20250303100816_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875033524866650_20250305142700_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990320521753159_20250306141836_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241550961259210533_20250311102026_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990321058661882_20250306141836_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773844229511229_20250304173028_right_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875058766060993_20250305142719_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875065745448533_20250305142724_right_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512789540549396_20250302112848_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773844229511229_20250304173028_right_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875065745448533_20250305142724_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091288752048212_20250307111223_right_18.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512829545796506_20250302112917_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091297073500582_20250307111229_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "愤怒",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644362642563012_20250303144237_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240854629879944771_20250305101338_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113794389000548_20250307155151_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512812768627301_20250302112905_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512782569725466_20250302112842_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241673048112104474_20250312113628_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773852953647196_20250304173035_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990326024654164_20250306141840_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241673066642576579_20250312113641_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990318365785607_20250306141834_right_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990295683106657_20250306141817_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551016691145023_20250311102107_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990316889463548_20250306141833_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240540303243771179_20250302171027_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241316996136890746_20250309095508_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113777335025718_20250307155138_right_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773828265961430_20250304173017_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241673063010169124_20250312113639_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512818003192936_20250302112909_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240540289679316900_20250302171017_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "愤怒",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644351233912130_20250303144229_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773811748763458_20250304173004_right_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644364253115173_20250303144238_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644363858874361_20250303144238_right_8.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773840874025157_20250304173026_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091300965803171_20250307111232_right_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551019366985330_20250311102109_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113783517425669_20250307155143_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512801217584990_20250302112856_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240969312754558823_20250306095744_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241673072145410506_20250312113645_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240854631624781851_20250305101340_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990319582238185_20250306141835_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240622286376394334_20250303100829_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773840739921798_20250304173026_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990295951452615_20250306141818_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512806183631267_20250302112900_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551006482118160_20250311102059_right_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241316999081331001_20250309095510_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875052726349785_20250305142715_right_14.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091309027354050_20250307111238_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875048565584275_20250305142712_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644366669024207_20250303144240_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875052726349785_20250305142715_right_11.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875071374137327_20250305142729_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240969351946068483_20250306095813_right_8.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644360629226321_20250303144236_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875069771936238_20250305142727_right_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "开心",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241673052818017349_20250312113631_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512814916110968_20250302112906_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113777334976134_20250307155138_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512802970703787_20250302112858_right_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240969360007604703_20250306095819_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240748049201133746_20250304121010_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990322937726744_20250306141838_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551015877324173_20250311102106_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644356602634800_20250303144233_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512836525244681_20250302112923_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551022328166209_20250311102111_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240969351946068483_20250306095813_right_7.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773845580121602_20250304173029_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512781353366928_20250302112841_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241316976532790046_20250309095454_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240622281276029251_20250303100825_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241444491695903461_20250310121820_right_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773855914807140_20250304173037_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773849732492426_20250304173033_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551019232761806_20250311102109_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512792627656249_20250302112850_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644352039231981_20250303144229_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091288752048212_20250307111223_right_17.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091288752048212_20250307111223_right_22.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990329505971320_20250306141843_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773825313276597_20250304173014_right_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875051509996709_20250305142714_right_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113776798152096_20250307155138_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644360906017229_20250303144236_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240969349001724867_20250306095811_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875051509996709_20250305142714_right_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644363858874361_20250303144238_right_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240748039000679865_20250304121002_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "愤怒",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644360906017229_20250303144236_right_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241550987163150356_20250311102045_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875034204302948_20250305142701_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990324414036866_20250306141839_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990291933307272_20250306141815_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241673080198511025_20250312113651_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773855109532788_20250304173037_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551014803582262_20250311102106_right_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644355939985298_20250303144232_right_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113815863855951_20250307155207_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240969337861629396_20250306095803_right_6.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773819676075650_20250304173010_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875037828215767_20250305142704_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512833840810874_20250302112921_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241550991726646891_20250311102048_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773856317439672_20250304173037_right_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551016691145023_20250311102107_right_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551017496346588_20250311102108_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240969330748139532_20250306095757_right_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240854625987607251_20250305101336_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091312240135217_20250307111241_right_17.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990315958300323_20250306141832_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644355939985298_20250303144232_right_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091303792862515_20250307111234_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240969339329699926_20250306095804_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551006482118160_20250311102059_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241316993578430716_20250309095506_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113800420452880_20250307155156_right_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113776940756892_20250307155138_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241316997068011970_20250309095509_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512794246564812_20250302112851_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "愤怒",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644355663208863_20250303144232_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113823245912264_20250307155213_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240854635517159407_20250305101343_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875045872746197_20250305142710_right_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113788349314752_20250307155147_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551016422655131_20250311102107_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241316995860118178_20250309095508_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773842618825048_20250304173027_right_4.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091309832619156_20250307111239_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551020314986901_20250311102110_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091310226931881_20250307111239_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091288752048212_20250307111223_right_19.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113776798140331_20250307155138_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091288752048212_20250307111223_right_28.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875048565584275_20250305142712_right_7.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773842618825048_20250304173027_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241550987020484522_20250311102045_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113777335025718_20250307155138_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875059563017773_20250305142720_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "开心",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644358355924032_20250303144234_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240644358221715952_20250303144234_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990293669786117_20250306141816_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990318365785607_20250306141834_right_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875047357594391_20250305142711_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551021657183485_20250311102111_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773846779623446_20250304173030_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240404554619898309_20250301130446_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990309104762057_20250306141827_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241316995868536655_20250309095508_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "愤怒",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240854632170118941_20250305101340_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240990288846368552_20250306141812_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773814433222506_20250304173006_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773842618825048_20250304173027_right_3.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241551016682720624_20250311102107_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240854631624781851_20250305101340_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240773835908053193_20250304173022_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "愤怒",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113802299461546_20250307155157_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091304858117393_20250307111235_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240854635382905772_20250305101343_right_5.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875053389044945_20250305142715_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241091288752048212_20250307111223_right_9.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241673081934924919_20250312113653_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113785924878692_20250307155145_right_2.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241673085021891302_20250312113655_right_1.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "愤怒",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/241113774650642884_20250307155136_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240512783240823031_20250302112843_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "中性",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875059831465468_20250305142720_right.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。",
+        "role": "user"
+      },
+      {
+        "content": "厌恶",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/emotion/1000_audio/240875064260670306_20250305142723_right_2.wav"
+    ]
+  }
+]
