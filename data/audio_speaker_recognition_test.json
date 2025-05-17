@@ -1,0 +1,3202 @@
+[
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245767545671022322_2e0c294289d8bf21650cbd0e3bcb5b5d_dcda2436dedb8b1aa8e321a9535d78d2_20250416190026_A.amr",
+      "FuseLLM/voice_split/Left_245773785184502860_423640daaf4493b94bb12286c5a65c7c_ee5d91f5b42b2aa4b5f644815de553ea_20250416201755_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245783790311075135_bab3e44de1e089671fc33405ecda4fea_dc33675ad4d13d7a9d6efe4d95d9fa07_20250416222209_A.amr",
+      "FuseLLM/voice_split/Left_245762307689811575_1781cd346aa20baf5bf8f1e185b3a080_28df183378ccd7d25d4e4857b0d6e3b1_20250416175523_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245779037795514175_fa4dad4deade9562960b38d8e29db637_f7cafb3581a23f1f9e65dbbb482831d6_20250416212308_A.amr",
+      "FuseLLM/voice_split/Left_245791499508850571_86ef07172d5e1dad81038a252b2a2029_677527fe6f6bf3707b153af255b1e1bd_20250416235753_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245760342733785718_a12dc682f35503fa808d94feed162ff7_c35ec1cd4c3d2caea0fc301f600cb1ef_20250416173059_A.amr",
+      "FuseLLM/voice_split/Left_245764269147831965_8d6384abdce508a5a4d52bcd107d99f7_9aba4e9b76e68c753cd31b918e0defd2_20250416181945_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245762124876954250_b31095479e0466225bf3109fe369d4d5_c50ce35e64b3a94ec40f8ad1689d78ba_20250416175307_A.amr",
+      "FuseLLM/voice_split/Left_245768621023286174_e6ca8d94823f4da768a5fa2451560183_c2190126e97112fc1c57c49213155f79_20250416191347_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245762085290962706_d20b65c6e6ec28ef286a8683c14765e8_cac0f9176c19873b328b4c78f78d551a_20250416175238_A.amr",
+      "FuseLLM/voice_split/Left_245762995287136291_bd854d721c14bdf933289099c02f7ba5_d4a5b00106a339c3cdb6bab441914f41_20250416180356_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245779574398092418_361cf74ae0ed0a83852b956369a9463e_2157c2667f2078d2106f0c1efc14fecd_20250416212948_A.amr",
+      "FuseLLM/voice_split/Left_245769056023104804_575ebfc3a4c4d46b61fef8af1048d804_7835ab54b54b42a4bdf262ead86871b9_20250416191911_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245767043965097047_3650b800bfb8150d71be3fb28e13feea_6639d20b8b2bfe2b127929e730b4f738_20250416185412_A.amr",
+      "FuseLLM/voice_split/Left_245775871330687138_b11250bc28f4579a26c63bc5cc1e4e28_72ac9a2660482dd220d84876bf825512_20250416204349_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245763508938726459_88d42909e82c2929a7348410e9fed6ac_ff406a7c896f7e751d99159650b518c1_20250416181018_A.amr",
+      "FuseLLM/voice_split/Left_245763508938726459_88d42909e82c2929a7348410e9fed6ac_ff406a7c896f7e751d99159650b518c1_20250416181018_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245767106913303672_0ef501f3814b11d3dd7b9a6d512c374e_20dad614115f2a51b32864984707e64f_20250416185459_A.amr",
+      "FuseLLM/voice_split/Left_245763338750494846_e73ed4974d8e893daeb435aae4a13fac_d31e04650d4f141ce4db75059677bc7e_20250416180812_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245766205372568127_ba9be1afeef2745c4acb696d34323810_e89da3af30f03814fec1e09ce8934aef_20250416184347_A.amr",
+      "FuseLLM/voice_split/Left_245766205372568127_ba9be1afeef2745c4acb696d34323810_e89da3af30f03814fec1e09ce8934aef_20250416184347_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245761122136335505_15ffd3da3c8c6b8bccaa6e8c2772c61e_0a00fc73efbe0c40bcec6b3c72decf18_20250416174040_A.amr",
+      "FuseLLM/voice_split/Left_245763456056640042_85c20f19a1ab214d24521d73f98354da_c422b953be7eed6e1f921fb6e963a6e3_20250416180939_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245787124413481120_7893424fc2d233cc7e98a75e5f774a99_b8bdce9593eb2f7fff89eed55f122bce_20250416230333_A.amr",
+      "FuseLLM/voice_split/Left_245775773083616411_9ea40a34c53c38fffc599ce767fa2859_d72307e041e92697cacb8c27a4b6e4ca_20250416204236_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245772507566248709_7b90bd6cf6a7fa2e966d71ef1db92c5d_9f4f6305e9c65ae0fd3ca8d8e0308306_20250416200203_A.amr",
+      "FuseLLM/voice_split/Left_245773817396822155_18b51e083544cfd1a6c391c90ae8af8f_22b801e06ac5660040566f20461522a7_20250416201819_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245771653270226384_027755544382473b6042c346fae409ee_0ff9b586948794ff799dc16cf1003776_20250416195126_A.amr",
+      "FuseLLM/voice_split/Left_245773082554926499_2baca57fa68286d7135403de37d6e158_94b786a6e8a11891b614ddb10e753a56_20250416200911_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245776489000826531_f9a35f5f1a473749019602ded76fe646_037549c87febce2fdfac3cd6f6d4d43c_20250416205129_A.amr",
+      "FuseLLM/voice_split/Left_245776489000826531_f9a35f5f1a473749019602ded76fe646_037549c87febce2fdfac3cd6f6d4d43c_20250416205129_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245773601440701998_8b452df169010b655e138f40e667ee6a_ae3a8f88a61b3998f848a8828ecda56a_20250416201538_A.amr",
+      "FuseLLM/voice_split/Left_245759801165583498_803a3a5ddedb35b493d6dd60753dddfd_473909c63bc766dbf5a037acf73ced20_20250416172416_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245765123712188482_0e37c2a10e4d1af3da0e249493d98e1f_506fd13302eaa0e59ec1cc708e69ea12_20250416183021_A.amr",
+      "FuseLLM/voice_split/Left_245758738572104631_95272b7d859233eca754a847faf401d6_c768972329cc8523b049910e9dd7444c_20250416171104_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245762524988214540_5dedccfeee3884b0ce2f928ff64b39b1_0f01195890152fd513a008d432d043b4_20250416175805_A.amr",
+      "FuseLLM/voice_split/Left_245762524988214540_5dedccfeee3884b0ce2f928ff64b39b1_0f01195890152fd513a008d432d043b4_20250416175805_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245758444098262697_a9e430bfaf680ccbf701c33b5463f600_8b485e13176cb5a0e4c50d540ef099d5_20250416170725_A.amr",
+      "FuseLLM/voice_split/Left_245778738758473125_6e0c7fad2f9424821b471ad9f1b24133_846ad3d470e1f3a7d377321c36ec8f9c_20250416211925_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245769461494685768_cb50400365a3471f6b793b4a0fdc64c2_a7505bd04561639706802e7140c1c3ad_20250416192413_A.amr",
+      "FuseLLM/voice_split/Left_245775815361984636_0abced974c774ba0023f83246b09b720_cae345a995c1e741699e0355dfc8b2a6_20250416204307_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245769651144363330_5d6ae79098ecf90c04cda490f1ae858c_fa47f580516129814be9f02d5f1e7ef1_20250416192635_A.amr",
+      "FuseLLM/voice_split/Left_245769651144363330_5d6ae79098ecf90c04cda490f1ae858c_fa47f580516129814be9f02d5f1e7ef1_20250416192635_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245768012077499334_ebb74cc65a74b1d1d040af65f3415c88_3c1fa172b307be14ffbc84fe95e200d6_20250416190613_A.amr",
+      "FuseLLM/voice_split/Left_245768012077499334_ebb74cc65a74b1d1d040af65f3415c88_3c1fa172b307be14ffbc84fe95e200d6_20250416190613_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245760601505829072_a06a97a2fda8460eb728bf9908671077_c509b673f7468bf172fedc8ce9341a7a_20250416173412_A.amr",
+      "FuseLLM/voice_split/Left_245773570973038524_32d4d0d2fe567034773606076be1dd2a_ec392854ac6550184cc78f76fc578820_20250416201515_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245764867490426358_bfcc6dc5efcf77e4bbc45038f5cf7b08_cf1a761e291076c0555eda6423671261_20250416182711_A.amr",
+      "FuseLLM/voice_split/Left_245773631371046995_fbe8be0b6a229ea815831d48ece1a074_543b1ed3b51e589573b8a41c1dbb4f11_20250416201600_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245762386064711553_2cd50749af1b9b7c399c3806fd167b0a_02d08693ec753eeb245e92adaa8e902c_20250416175622_A.amr",
+      "FuseLLM/voice_split/Left_245762386064711553_2cd50749af1b9b7c399c3806fd167b0a_02d08693ec753eeb245e92adaa8e902c_20250416175622_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245758444098262697_a9e430bfaf680ccbf701c33b5463f600_8b485e13176cb5a0e4c50d540ef099d5_20250416170725_A.amr",
+      "FuseLLM/voice_split/Left_245758188682121233_387ea642bbffd8072e1227fb08766f20_1213e8aa5651fefd5d8af66908d938d4_20250416170414_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245783180828128944_ad653b3841198ab2928fd2c2a74d5b5d_1605dcd452196442f50bab378897b5e8_20250416221435_A.amr",
+      "FuseLLM/voice_split/Left_245764472353517140_3fb59308c3bbdd3ea7eb7ba574a4ab1d_f85d2a375878b20d978ee6b1372d9c2c_20250416182216_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245759895788909827_5efce22588ead12231d95931c1dd4f7f_893fdfe62dcb1b6ff1526757e8890ac2_20250416172526_A.amr",
+      "FuseLLM/voice_split/Left_245759168605566086_cb2786e9ed75c77b08c1f78e6b1dabdf_39593fab4cf93c987e1f494c46d632ab_20250416171625_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245760021559313077_c4dc7e644c8a770f61754154f5a97830_6cf5129909ffc19e52dfa1f7f68ecc91_20250416172700_A.amr",
+      "FuseLLM/voice_split/Left_245769507397218454_eef25450a3fa355ee70e35bd5885b92f_56988ea11f04b1255992db42cc00d1a7_20250416192448_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245784880829926834_1626adeda5ea3743509b5845dc5c8e8d_dcc69eba85044f3754d758ab382f9228_20250416223542_A.amr",
+      "FuseLLM/voice_split/Left_245789021312717778_6902a47cf208f01cc0fd7b87a71ea920_dbec32472da897af3702f3e5aef13925_20250416232707_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245760880678534883_412f63929366dc397b5808116ae27468_27c8f60b1d170f447e8dafbc42f3e89d_20250416173740_A.amr",
+      "FuseLLM/voice_split/Left_245774243135740435_6b382b040d3d9ac3b95e52bb0ac75b1e_0866a8ee06e1c6756d5aee2c8941f669_20250416202336_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245758334845186845_9d864e2ae9e0a53fc217234084b33e9f_58200d6b3bcf4100b684078e3247f9c9_20250416170603_A.amr",
+      "FuseLLM/voice_split/Left_245767863095937106_2f0014cfd0caed9147e8d317f2c2e352_e6bb76b13fd8379e4faa8bc099540f9e_20250416190422_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245766196648626877_e2b5ea219e7b15ae3b8630b8b80268c3_c1dd8dd669e791a99d9f2749d39b4ab0_20250416184341_A.amr",
+      "FuseLLM/voice_split/Left_245773235563199968_517cc65214e2711f1e1a31fd9b49174d_cc7a1679ad13add0ea09574f64588106_20250416201105_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245758186257667746_63f86eb5aac69351d82c88dc937988e5_1d40601e290ea48af073a12ea561a7f9_20250416170413_A.amr",
+      "FuseLLM/voice_split/Left_245758186257667746_63f86eb5aac69351d82c88dc937988e5_1d40601e290ea48af073a12ea561a7f9_20250416170413_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245785597418595459_dfbeae548a33b1f27744466212df88e2_ee395e3d9926d06f3a3b608f09c44645_20250416224436_A.amr",
+      "FuseLLM/voice_split/Left_245785597418595459_dfbeae548a33b1f27744466212df88e2_ee395e3d9926d06f3a3b608f09c44645_20250416224436_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245766041895678795_e488a15545ccd51d96ba9e8d9c78fc9c_2762e3168975bb1f3eba360d1697ebbf_20250416184146_A.amr",
+      "FuseLLM/voice_split/Left_245768729068538992_553b0de85df27183b8ec23529200e671_b02c42768c94e09ead2db945355adbf0_20250416191508_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245773867325801128_1b2fda3eaeffb3fbd73aba09747e6821_aacb98e00a90480d7c561f418a049775_20250416201856_A.amr",
+      "FuseLLM/voice_split/Left_245789911444733784_760ab26931fa33c439abc4a4cafb820b_51a3c831c5e1b4d2f11f9ba1b12629d9_20250416233810_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245763819115696956_3223adaa9b3c6faf140509cc702ab491_c079b8a9a9cf8b1b1a5d6c17a7df5266_20250416181409_A.amr",
+      "FuseLLM/voice_split/Left_245765458451053387_78512b24d42f3bad4cc84ecf058fddc8_f469fe6175837b11b019d9d37e37d2b4_20250416183431_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245773208853599817_6e305be7e4ad75c7a0e6e9c3d883bf3c_9da7f07e392541d77676fd22971b0737_20250416201045_A.amr",
+      "FuseLLM/voice_split/Left_245770476046424015_8f3e4afabde76485fad812decda01684_85a07e7ca130417e2660b381b842fb27_20250416193649_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245765841374255403_a61bb588b4ed733b5f637d24c7636bb6_fef50fcfc2894d9f0ea6a5693956acfa_20250416183916_A.amr",
+      "FuseLLM/voice_split/Left_245768535124058635_669e84e0dfb1f5a15320054b69762493_e6690ffabb7b40d084d84c75c681068d_20250416191243_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245771171428585017_13ab9c844f58578527b4206e3b1ccce5_7b33d961ba8ecba45a683dce502a99e2_20250416194527_A.amr",
+      "FuseLLM/voice_split/Left_245777448254911920_3771ac95df2600e08d2189478f9cafa8_d1ab1b5e18b1ede8a10771c05f0c4752_20250416210324_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245768546264141830_00bafce8a4c8cc5d29ef67f8ff838197_b7319474f1f13bea68e9d51264ecd03c_20250416191251_A.amr",
+      "FuseLLM/voice_split/Left_245758566370793563_fd18ced31aaf0220f7f8ebc1955db441_a738a7d89565f5d4e03f808901316159_20250416170856_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245776309819986325_de2485309c9e7aae4120309ab770f0ae_bf6873d3c3097594ea5512dd88bb0816_20250416204916_A.amr",
+      "FuseLLM/voice_split/Left_245773867325801128_1b2fda3eaeffb3fbd73aba09747e6821_aacb98e00a90480d7c561f418a049775_20250416201856_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245759516497969682_f67ba2dd4a7c27d547d09c1c05357ffe_4e095ae67a50eba38f4519a512c57078_20250416172044_A.amr",
+      "FuseLLM/voice_split/Left_245759516497969682_f67ba2dd4a7c27d547d09c1c05357ffe_4e095ae67a50eba38f4519a512c57078_20250416172044_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245764867490426358_bfcc6dc5efcf77e4bbc45038f5cf7b08_cf1a761e291076c0555eda6423671261_20250416182711_A.amr",
+      "FuseLLM/voice_split/Left_245766879414112660_6d8ff999ade13dbd096c02d8dcadfcb3_73723c34a12a7e4b7309584dddac7e70_20250416185210_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245769573700731711_5fc47acd4b025d557c2884ed64fde162_ca7422396136abd72d531b19539f0855_20250416192537_A.amr",
+      "FuseLLM/voice_split/Left_245774238035119989_d02fa8403f97effc49f6b3eb0d5948ca_decbfd39a9461da648e13e3f0cbf25ba_20250416202332_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245782346396818270_3eedd24cb6853b241a27f2ac59c61e0f_d0e66f4d4cf1e81ab5c7caf8c190536a_20250416220413_A.amr",
+      "FuseLLM/voice_split/Left_245765103311059693_0255bc66cbbcd405315649f12694e505_e4ee662520feb396cdd960db0ec5ad67_20250416183006_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245768546264141830_00bafce8a4c8cc5d29ef67f8ff838197_b7319474f1f13bea68e9d51264ecd03c_20250416191251_A.amr",
+      "FuseLLM/voice_split/Left_245761135557906587_44d5767068b2388c077d422e48301ea7_75ae5e8b935ee9551aefaa3ec31a111a_20250416174050_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245787633233106460_b6a2656d622d22ddcc974d69cf130525_86d788b4916fa6e1bdc387a9bd3609be_20250416230952_A.amr",
+      "FuseLLM/voice_split/Left_245772764861652853_d3a1de4ff87c34f4928b4ed3c7624036_42be90c5cbc9d9da99d9ca5acc8bff9b_20250416200515_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245762124876954250_b31095479e0466225bf3109fe369d4d5_c50ce35e64b3a94ec40f8ad1689d78ba_20250416175307_A.amr",
+      "FuseLLM/voice_split/Left_245762124876954250_b31095479e0466225bf3109fe369d4d5_c50ce35e64b3a94ec40f8ad1689d78ba_20250416175307_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245777423156238082_01cf7fc26cf3daef70d7f6f0092e20f0_69a31bb0050d237f175479216e2b4171_20250416210305_A.amr",
+      "FuseLLM/voice_split/Left_245771882245760840_648ed1666b2fc60e38a132994b5c0b83_c1ba46fe9a39c95abec912da508e0e3d_20250416195417_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245773750422394459_4a3a274be1953cef5b3d7576d7863c48_09a06dcc07ca93fe16821a1b09517978_20250416201729_A.amr",
+      "FuseLLM/voice_split/Left_245775871330687138_b11250bc28f4579a26c63bc5cc1e4e28_72ac9a2660482dd220d84876bf825512_20250416204349_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245773867325801128_1b2fda3eaeffb3fbd73aba09747e6821_aacb98e00a90480d7c561f418a049775_20250416201856_A.amr",
+      "FuseLLM/voice_split/Left_245773867325801128_1b2fda3eaeffb3fbd73aba09747e6821_aacb98e00a90480d7c561f418a049775_20250416201856_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245774100999081250_c4b762de794d5d9b46a74100b90e125f_084452e66381d6532e1e1e46ace187df_20250416202150_A.amr",
+      "FuseLLM/voice_split/Left_245759940080633587_d237d0acfcc33805b294ed6e980ea6cb_217a3f0aeab427fd856851e499783bee_20250416172559_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245761916847973913_7f643707d83951b20b22f58d92190cdd_d852bc300bbc96d76187e9a3f1ce1074_20250416175032_A.amr",
+      "FuseLLM/voice_split/Left_245785554066032796_2fd672adfa9bf6f9c1c3e589c0874891_7726bca9de421670a08dbf90c317d9ab_20250416224403_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245774238035119989_d02fa8403f97effc49f6b3eb0d5948ca_decbfd39a9461da648e13e3f0cbf25ba_20250416202332_A.amr",
+      "FuseLLM/voice_split/Left_245786904430681559_8a91283bcaa5bd6eebdf39cc0be4aa5a_5ba2039cf926f787f51c6a243d8e6369_20250416230049_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245758608640875490_daaa6b412147faa446a009348d70228e_74d17214414de319d33ec182c96cb40a_20250416170927_A.amr",
+      "FuseLLM/voice_split/Left_245763688521836554_1fb97103691c9fed43b844979523dbaa_5680eaeb50d4c1333f361c5e0cbd36f2_20250416181232_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245789866750049703_ede17098b29d787e81d6c1b6f5a85ee7_6cc47f21d999c389cb2eb2c83d5c9032_20250416233736_A.amr",
+      "FuseLLM/voice_split/Left_245768028049307433_6b8003fcd1f674aed67f6c6291ad3039_1eacb7ae4ee892c78e96d6130b6c4d20_20250416190625_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245760880678534883_412f63929366dc397b5808116ae27468_27c8f60b1d170f447e8dafbc42f3e89d_20250416173740_A.amr",
+      "FuseLLM/voice_split/Left_245789015943967462_233902b3d768b47459f3f5201e7abbfb_2007ace41529a75948b3f3d66b6771fb_20250416232703_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245771442011566644_81c1e12adf62121f13e6ad3bccb2bd7f_993b6472d6880356defedef597db7938_20250416194849_A.amr",
+      "FuseLLM/voice_split/Left_245771442011566644_81c1e12adf62121f13e6ad3bccb2bd7f_993b6472d6880356defedef597db7938_20250416194849_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245771483082292598_3853a7ae9bce413ea1fc0f41fc2f86e5_e3449c7ae665734b8d3903e16e084299_20250416194920_A.amr",
+      "FuseLLM/voice_split/Left_245758957615462309_10fe08f4c34b9bcee401c329518bdf7b_eb71aae6d36b391d7428967517ad0550_20250416171347_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245759584672075888_d9117dc60c23eb7b6b826c561e3c0258_b0a898f175883e9f5afc7ebd5769dcd6_20250416172135_A.amr",
+      "FuseLLM/voice_split/Left_245775237420578863_0a4b6fac469f0bd9a3316e5ade5a6aaa_676f99cfd601e40c7fb8511011a86ed5_20250416203557_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245763637653386785_35efea8c22f9859930ba3f57335226a2_33612b4c6fb202f97974d1a984d6b681_20250416181154_A.amr",
+      "FuseLLM/voice_split/Left_245766428174095935_b0d65f26840420f66a898626f8ad7215_06fa84df5b9632d3d723be38bd9343a2_20250416184633_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245777504626513405_4d4aacdcb116c1d7f1e9c01b0c7faad4_f813873c1d2e39f9d2c9c2d4554b1299_20250416210406_A.amr",
+      "FuseLLM/voice_split/Left_245777504626513405_4d4aacdcb116c1d7f1e9c01b0c7faad4_f813873c1d2e39f9d2c9c2d4554b1299_20250416210406_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245786068522573300_47cc30ea76d545aab31bb33e0b5da668_e29f35d95a45fce4fa1a1a683cf8ea1b_20250416225027_A.amr",
+      "FuseLLM/voice_split/Left_245764482553885426_deff2efce1e0a4965e307c1bc48f3e42_cd55bbe5c9468fc5942ff2bf950a521a_20250416182224_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245759920082157860_e14c7570f749d692a129481052507d3a_883715b79d5e8ebf66df5785f880746f_20250416172544_A.amr",
+      "FuseLLM/voice_split/Left_245777631059506076_963cca24a6488b599fc114c66f139ab5_cc152afefe53ec5986d9568c29da0078_20250416210540_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245780780344257252_3792dd74b4f442003ea09489efa51501_082e2786ffa605b64042393f636f3fa9_20250416214447_A.amr",
+      "FuseLLM/voice_split/Left_245772658426873214_62ff11c5f18bffcc8d20fce9f723607c_a080844e91a0ed5a6b1373845a9df63a_20250416200355_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245773140268527352_526a59f5035753397b0fa09dd6ba5a4e_4c7760ae5988f3b2dfab65ea27ed0684_20250416200954_A.amr",
+      "FuseLLM/voice_split/Left_245775375798995105_ea5460638ffb7cbe71c0f220ac126321_48002988a1c5f1ea863820305837a48e_20250416203740_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245789277534518343_b69227a25feb4fb833431f3933a82e9f_259a9842d75eac51b8d33854e5847d9a_20250416233017_A.amr",
+      "FuseLLM/voice_split/Left_245760342733785718_a12dc682f35503fa808d94feed162ff7_c35ec1cd4c3d2caea0fc301f600cb1ef_20250416173059_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245771608844171361_8dc27b3a1042a55db7aa28d720659f5e_9925f473501c4a332f4e2a859d7ad2af_20250416195053_A.amr",
+      "FuseLLM/voice_split/Left_245786208109124065_78b1dba722fecd2e0021545d79cb46a4_3178924c3822c86d87e07ae0a350251f_20250416225211_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245766709628885514_16b5682229795182bf36a3b1e993e9fb_a3ab9e00ea28ca90fdaafd95e88780c0_20250416185003_A.amr",
+      "FuseLLM/voice_split/Left_245763542224716341_cb92c13292589373fe863f80523f9eab_0e78f58e0711f8c327383fa8b2840f93_20250416181043_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245770769312417652_7b45103e63ea088395b25151de0be93f_8b46694476485529a84a886119e55099_20250416194028_A.amr",
+      "FuseLLM/voice_split/Left_245764345786257845_4b78531393bcb845a36390d9d20d48b2_2e3a82bd26e40ab4bb41e059099ea050_20250416182042_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245787081061326463_5ad5772b5641396de764d13566745ea7_147dea029b1657ee0c90e09f37f30149_20250416230301_A.amr",
+      "FuseLLM/voice_split/Left_245761749343985788_ea7123ee649edc3e73abe77a130f90a6_24e88b8cda91ed234fc1b28a374066ba_20250416174827_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245791423944355336_db32a76747aeeef7748d0da4cfac5d1b_7737bb133cc31b0b77737a75b4093a5d_20250416235657_A.amr",
+      "FuseLLM/voice_split/Left_245791423944355336_db32a76747aeeef7748d0da4cfac5d1b_7737bb133cc31b0b77737a75b4093a5d_20250416235657_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245763439548101695_5e32d0914afc9e0ddc20c0fc8f3b1f87_81149cf4e319cdb26c1a5e1243a419fd_20250416180927_A.amr",
+      "FuseLLM/voice_split/Left_245775351505562029_3f04e748c2426acbb4e11263ae8e7764_5373cfd2c23830aa20e578e45fa6d316_20250416203722_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245758779777041142_f1cf4d2afdbd7b905aa1d479c5b12ec9_938b58f204a59e41a6f7440f6d98ea29_20250416171135_A.amr",
+      "FuseLLM/voice_split/Left_245758779777041142_f1cf4d2afdbd7b905aa1d479c5b12ec9_938b58f204a59e41a6f7440f6d98ea29_20250416171135_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245764345786257845_4b78531393bcb845a36390d9d20d48b2_2e3a82bd26e40ab4bb41e059099ea050_20250416182042_A.amr",
+      "FuseLLM/voice_split/Left_245761673502715856_a1e25f0bfbf19ef2dc6dd3f8110a90a6_634ab78f2c2f4ec95ab63d01b25632b4_20250416174731_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245787304936399156_cb858d61be0d67f22d58efcb631701dc_fdc5be4963277dbd711f9e8cdc73b3c7_20250416230548_A.amr",
+      "FuseLLM/voice_split/Left_245766201346175897_b874e2d792e4254989928b91d6f0fd80_e1dcccd7b507f4c325920f65e5f5c925_20250416184344_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245761627877132885_721a87e33d921d1ee9784e1f89cc011e_8738e0fe0a6a52dd250ed366e1dbda09_20250416174657_A.amr",
+      "FuseLLM/voice_split/Left_245761627877132885_721a87e33d921d1ee9784e1f89cc011e_8738e0fe0a6a52dd250ed366e1dbda09_20250416174657_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245767043965097047_3650b800bfb8150d71be3fb28e13feea_6639d20b8b2bfe2b127929e730b4f738_20250416185412_A.amr",
+      "FuseLLM/voice_split/Left_245769874348535238_48aed1ef4132f5eaf0a63e3bf9ade80d_e93c05df12d963d036e839dc07e263a2_20250416192921_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245791423944355336_db32a76747aeeef7748d0da4cfac5d1b_7737bb133cc31b0b77737a75b4093a5d_20250416235657_A.amr",
+      "FuseLLM/voice_split/Left_245768525460324636_f380635c32353273797e2b4f6c531721_b16d5331177a03d7f4aa469be83e7dbd_20250416191236_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245768621023286174_e6ca8d94823f4da768a5fa2451560183_c2190126e97112fc1c57c49213155f79_20250416191347_A.amr",
+      "FuseLLM/voice_split/Left_245784055659534598_bea29af99fa3239dc264b660d69c4b57_a23fb2320bb62e81fcb3eed8cfd5c187_20250416222527_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245791290934444088_9f39f747774d6448d6063169cff19bb1_bf07b14336fc0c01da893c3b481c60b9_20250416235518_A.amr",
+      "FuseLLM/voice_split/Left_245772141286094555_3507ee0355eb02e4d38399fcc023ccfc_1b6d1f6b66ccca6b726549d2327a425c_20250416195730_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245768729068538992_553b0de85df27183b8ec23529200e671_b02c42768c94e09ead2db945355adbf0_20250416191508_A.amr",
+      "FuseLLM/voice_split/Left_245761511912857171_e6706c72e02ac77fb2e1815b54e079ee_09782fb0bcaec221cf9013935d0062be_20250416174530_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245791079810160471_4a6027689feef3be47c715511c793c3a_0f727927f5238d5a4e2423bc133fe269_20250416235240_A.amr",
+      "FuseLLM/voice_split/Left_245791079810160471_4a6027689feef3be47c715511c793c3a_0f727927f5238d5a4e2423bc133fe269_20250416235240_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245760121945812279_58f4e08c39ad67170f17dce36fa68aab_6ea2d953057ff9ae2cd74db4f6ce6266_20250416172815_A.amr",
+      "FuseLLM/voice_split/Left_245760121945812279_58f4e08c39ad67170f17dce36fa68aab_6ea2d953057ff9ae2cd74db4f6ce6266_20250416172815_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245777424095678943_d0bcec14094c4082a119682a17db2d99_d967a55ee565f0afbad81dc2f647c089_20250416210306_A.amr",
+      "FuseLLM/voice_split/Left_245782462629317045_e401d3808dc31aaebe60d0cf98e8ea09_ccbcc1583b6f72c576395213d367e059_20250416220540_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245760806196148204_457f1430f9e86e8efa8e241753923820_14df94cdc367c69169592000f81892ea_20250416173645_A.amr",
+      "FuseLLM/voice_split/Left_245786894632990360_32b1f5e5e939f40f59dbce68be490f7d_e4f9750a99d749971015b6e163dab920_20250416230042_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245772224098134938_6fd0b970a91ffd7645247d86cb4a2606_31e61cc9fd1eae8db71490cf9d045d26_20250416195832_A.amr",
+      "FuseLLM/voice_split/Left_245761760752545287_1499f18ed04e42c6d95ec812bed39fc2_64d3e5f623bf03289accdc0fc56727f9_20250416174836_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245761511912857171_e6706c72e02ac77fb2e1815b54e079ee_09782fb0bcaec221cf9013935d0062be_20250416174530_A.amr",
+      "FuseLLM/voice_split/Left_245761820479523899_c263c23c87d405b746756a80f858092b_339480d2c61499c0855f68d12dda127b_20250416174920_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245776241906068741_06854d6846278e28fa1f3de9d3020cc5_8934268a84748f4ddf53767694e71c9e_20250416204825_A.amr",
+      "FuseLLM/voice_split/Left_245765103311059693_0255bc66cbbcd405315649f12694e505_e4ee662520feb396cdd960db0ec5ad67_20250416183006_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245785729622986964_8e3a017dc83f7258a7933253c866233a_71f1899434b35d1e98be7229733c3cfb_20250416224614_A.amr",
+      "FuseLLM/voice_split/Left_245778452337590663_34edff8fcbd7f92a4bead81f9d5950d2_58f68372966627232b4ffdc470ddb532_20250416211552_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245763697111703687_bad19b7a51f90d1a26380a459a1376a6_9516fbd5b5a0a1cd68e7874d6233a0f5_20250416181239_A.amr",
+      "FuseLLM/voice_split/Left_245763697111703687_bad19b7a51f90d1a26380a459a1376a6_9516fbd5b5a0a1cd68e7874d6233a0f5_20250416181239_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245773666536134318_507bde3cf5bd4ed97ed5593e1d8445c1_8cf86d3bca960a403afecbc5b0fcfa65_20250416201626_A.amr",
+      "FuseLLM/voice_split/Left_245781583368750461_466fa246bc6bf3847f0bfab2d16322ff_c3d8ec67e426d4e91e7f30245655e074_20250416215445_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245766006730429437_d3b576e2c7cbb1015c09575dfb949337_745b1d6b7140944dceaa92c938f981c6_20250416184119_A.amr",
+      "FuseLLM/voice_split/Left_245773567886030701_12dd374173774548d0f5cee546d32730_a758ece730ce5efcb7a0490b917d8603_20250416201513_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245759517160878819_f8f2e85ba2fade021abbbde60a915e23_f58c36b92b152349d35c894db0551795_20250416172044_A.amr",
+      "FuseLLM/voice_split/Left_245769301238875872_590def636de7bcc3b7298a20e36d9a36_0b4c3a3c54fe4cd0b3e88a8ecc8bf0dc_20250416192214_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245762344599800850_d3fd956a0ed814e70b21aae57d8ad45f_b54e4b0e213711773b8d51cdf3714759_20250416175551_A.amr",
+      "FuseLLM/voice_split/Left_245762344599800850_d3fd956a0ed814e70b21aae57d8ad45f_b54e4b0e213711773b8d51cdf3714759_20250416175551_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245758301148051259_0c047860f13361d1dc573b8982ca05d0_a9c5c3262f35291f69bccaaeea2148ed_20250416170538_A.amr",
+      "FuseLLM/voice_split/Left_245758301148051259_0c047860f13361d1dc573b8982ca05d0_a9c5c3262f35291f69bccaaeea2148ed_20250416170538_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245776788843191058_2f79dfa04d23aa29f1ff5c8e9b261c7b_317078d8c7004c5c5833c9204436110a_20250416205513_A.amr",
+      "FuseLLM/voice_split/Left_245776788843191058_2f79dfa04d23aa29f1ff5c8e9b261c7b_317078d8c7004c5c5833c9204436110a_20250416205513_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245781220981007184_6e96188d15f5bdc06ffc716e3bcd471e_f78ae707ebd1844f34f1479954203c3a_20250416215015_A.amr",
+      "FuseLLM/voice_split/Left_245775773083616411_9ea40a34c53c38fffc599ce767fa2859_d72307e041e92697cacb8c27a4b6e4ca_20250416204236_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245757999158362620_11e4b39ac540c0936fee748ae8b7cd81_caa78eb2435d2f8cfd3069bf70fad277_20250416170153_A.amr",
+      "FuseLLM/voice_split/Left_245791499508850571_86ef07172d5e1dad81038a252b2a2029_677527fe6f6bf3707b153af255b1e1bd_20250416235753_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245766006730429437_d3b576e2c7cbb1015c09575dfb949337_745b1d6b7140944dceaa92c938f981c6_20250416184119_A.amr",
+      "FuseLLM/voice_split/Left_245781082468451196_af3fe8219956e346114c3aeba8a0f1b7_ed19e325c7e7724745f9133f5f89bea5_20250416214832_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245759174905458051_96519ea47053b32ef6e8310b3ffcf679_691b59f92f6ba8191f84c66c0f246b0c_20250416171629_A.amr",
+      "FuseLLM/voice_split/Left_245759174905458051_96519ea47053b32ef6e8310b3ffcf679_691b59f92f6ba8191f84c66c0f246b0c_20250416171629_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245763438608416341_13e456160176967215ecaf4f573e88e6_d478a219ac7eed380edaecd625e9b019_20250416180926_A.amr",
+      "FuseLLM/voice_split/Left_245766272347390188_ef4fb7871906aa3372a459dbc8bf8f9a_37bab06bfba5a6f17115dcbfced9f121_20250416184437_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245760880678534883_412f63929366dc397b5808116ae27468_27c8f60b1d170f447e8dafbc42f3e89d_20250416173740_A.amr",
+      "FuseLLM/voice_split/Left_245784988204337456_e89ca1da0bbd3471d0e56afed0e9f2b8_7ea75f01019fbb3c5b22f9950d1a3fb7_20250416223702_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245767881483593904_6c67bb1864e7ba1440d56663ea21ecd7_ed70bcd77d3adc304d73d910d5c1845b_20250416190436_A.amr",
+      "FuseLLM/voice_split/Left_245767881483593904_6c67bb1864e7ba1440d56663ea21ecd7_ed70bcd77d3adc304d73d910d5c1845b_20250416190436_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245764866550732523_6b4da978becaa9faab502c7f77df9893_08bc1d98c150c68cb1176cd720a57896_20250416182710_A.amr",
+      "FuseLLM/voice_split/Left_245764866550732523_6b4da978becaa9faab502c7f77df9893_08bc1d98c150c68cb1176cd720a57896_20250416182710_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245763847972591084_711e630037801ecd8f5388d05dcb45d4_d1bd0e5e195f5fbca169bff99a7730ef_20250416181431_A.amr",
+      "FuseLLM/voice_split/Left_245781152127192208_a8c7953b19fd8c24963debad350a0ed8_3d088e8471eb02481455f9e3cd6d13e6_20250416214924_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245770482086311881_bac7277f2f2ce949b83160e08180817a_f4a16a19c6169d28c7210f33f8ce8454_20250416193654_A.amr",
+      "FuseLLM/voice_split/Left_245758960165571217_7bb0b921935e7aa0bec574cba833528e_88693e84defa7e4c03801f74af612ca1_20250416171349_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245783767359835735_7c65ce0026da5952c8c3ab01e2b08243_7ac7da67f636c7c25ca753735baacbde_20250416222152_A.amr",
+      "FuseLLM/voice_split/Left_245783767359835735_7c65ce0026da5952c8c3ab01e2b08243_7ac7da67f636c7c25ca753735baacbde_20250416222152_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245775805429819256_2a26421449ca3bf50c00afb7116ee6cd_dcfe0811af8ae89bd9246ce1a29c42c3_20250416204300_A.amr",
+      "FuseLLM/voice_split/Left_245775805429819256_2a26421449ca3bf50c00afb7116ee6cd_dcfe0811af8ae89bd9246ce1a29c42c3_20250416204300_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245769730601400752_ba85ca58bb8a92a9d7e41340ed4001cd_946e6e385068d8dd732b9d8f219daa63_20250416192734_A.amr",
+      "FuseLLM/voice_split/Left_245766906257625195_b5ebdf856eb3a63813b4689b1b642a10_5f551467b6756031e9086d754e45b3c9_20250416185230_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245763508938726459_88d42909e82c2929a7348410e9fed6ac_ff406a7c896f7e751d99159650b518c1_20250416181018_A.amr",
+      "FuseLLM/voice_split/Left_245772060218577742_0d7dce843333af172c3a30768a0af64c_a908557fbfcf03ae1ea41e0aa2629ad2_20250416195630_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245777773330354447_caea9125d395a424dc20a788038e35c9_f726576b75839f2b750eadd271fedbbe_20250416210726_A.amr",
+      "FuseLLM/voice_split/Left_245760036323276436_a01761ab8d37bac43b5391b373723a74_9fc43a46d6420c9741edac1c8b084811_20250416172711_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245778320133122498_999f8ada61dca8f1d08db931d6272266_61fc72d647cfb5b814ef74c34cc57a89_20250416211414_A.amr",
+      "FuseLLM/voice_split/Left_245761548957031366_722e4620eb0f4431b1e0f3721f06d127_b90590b5830311efce74e50f93bec7ed_20250416174558_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245760698679365660_fe6c36f4267fa83bf6e2643b772ad3a8_ead23e72fb55716e57a800aa382109d4_20250416173525_A.amr",
+      "FuseLLM/voice_split/Left_245786120867571321_2c2ede78759a1552812c547ebb554497_ac8dac64ef3c1fd0bedee7945d85505a_20250416225106_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245763701406602329_9754317bab6b55b1e6687382bf81d8e3_913b7d14f683c0d5b98578583cd9a10f_20250416181242_A.amr",
+      "FuseLLM/voice_split/Left_245768691622046541_3f9b9a197e4b673b7605083cdb807b7b_74145f84072d2bbd2079d5cec0b5b16e_20250416191440_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245761193011542051_848bf9e0fc24fa0802ee8a2dc1a77077_691bbade9771eda355fc0bf38c8fb834_20250416174133_A.amr",
+      "FuseLLM/voice_split/Left_245761193011542051_848bf9e0fc24fa0802ee8a2dc1a77077_691bbade9771eda355fc0bf38c8fb834_20250416174133_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245771909089250788_a26ccfa88e041d017599f5c3d3598356_1606c52abe8eeb2469c6e241098262d7_20250416195437_A.amr",
+      "FuseLLM/voice_split/Left_245764387527820365_ed3e66f660ce4169cce2de510e1070ae_0686382140d19970f64f3ccb936f84ac_20250416182113_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245765565019872393_9bef5d059777b200cd281c3a7aa0aa39_6600dfc22dc57d73f6b4bf2139b81b2f_20250416183550_A.amr",
+      "FuseLLM/voice_split/Left_245764216400049204_52dc2289d7c303fd477c88735a71afdd_0a9a96eaa63df56c96024e65572f7a82_20250416181905_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245768523178584183_7bcc4c64dd850dc2f5250e4dfe8ffc61_ecfed2f04e76892f9395e7e79ed6c571_20250416191234_A.amr",
+      "FuseLLM/voice_split/Left_245786284076272162_363149bbea5c3f0fb9d379a6a124d234_3914f1a397b3564b8035b48016c400f9_20250416225307_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245766808010273028_c13c6688c77ca508e6a8a34aee87d949_0689f7d4f5572795adbdb3b2ad54013f_20250416185116_A.amr",
+      "FuseLLM/voice_split/Left_245759432871846981_3eb3cd18a5f10ca46c2d11baab492c97_717062da53cf08c9f21326e7dd8aec33_20250416171941_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245763028975851222_0e2191ceac90bda3b5281be76b5c95b4_930aee54a1d86fcd48e35b641e31df08_20250416180421_A.amr",
+      "FuseLLM/voice_split/Left_245759279737869261_39a000f5cd1e24df5f47fd9ea36e96ef_5a8dc4219eb6d039b849de09f48fb078_20250416171747_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245770998690256813_6b06a4e961b8c92c7b5eb6b6710246cd_d2f30a9eb208f07faff89e665e2fdf06_20250416194319_A.amr",
+      "FuseLLM/voice_split/Left_245766560378445424_dbcc91a94082bae90ef87cfcf76634a5_f1fe147f45f8d64b94153f38a52f399c_20250416184812_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245769820258763383_0db34df49e7684dfcc9cef87779a816c_ac5ced2ce828599c76e66853cfc566ea_20250416192841_A.amr",
+      "FuseLLM/voice_split/Left_245769820258763383_0db34df49e7684dfcc9cef87779a816c_ac5ced2ce828599c76e66853cfc566ea_20250416192841_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245763211512220601_795ae2b0041168dbfe541df3b7f0f0af_c54ebc943e26839466d06ac3abcb713f_20250416180637_A.amr",
+      "FuseLLM/voice_split/Left_245761760752545287_1499f18ed04e42c6d95ec812bed39fc2_64d3e5f623bf03289accdc0fc56727f9_20250416174836_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245764866550732523_6b4da978becaa9faab502c7f77df9893_08bc1d98c150c68cb1176cd720a57896_20250416182710_A.amr",
+      "FuseLLM/voice_split/Left_245759324692527872_3a134bb467a46f280d9f7e7d3a04d8b1_c1321b638c24c8a665aec13ce7ffafc2_20250416171821_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245780084962263396_3a74c1a9dd4efedee875064b8fe5b269_ab89e411cb43100116ac815e04caca27_20250416213608_A.amr",
+      "FuseLLM/voice_split/Left_245780084962263396_3a74c1a9dd4efedee875064b8fe5b269_ab89e411cb43100116ac815e04caca27_20250416213608_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245786201264126164_009c4750e7d6b6dee3d475343815a2d0_2680e11f6f4a512a0a99af755a1315bc_20250416225205_A.amr",
+      "FuseLLM/voice_split/Left_245784110554423615_506f096ba358c192c6f8cf4ec2175dcf_182151cbfd5c145dc6e3562afa36b54d_20250416222608_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245762503111043332_c7c617b3dd035ce4538811605aa1edf2_d7fd6f6b53980f14ff3e715fe7575358_20250416175749_A.amr",
+      "FuseLLM/voice_split/Left_245762503111043332_c7c617b3dd035ce4538811605aa1edf2_d7fd6f6b53980f14ff3e715fe7575358_20250416175749_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245774061404640474_9ee8229795c144c6c4ad9180db39a9ea_e50c6dac74adc682d3828f209403e546_20250416202121_A.amr",
+      "FuseLLM/voice_split/Left_245760342733785718_a12dc682f35503fa808d94feed162ff7_c35ec1cd4c3d2caea0fc301f600cb1ef_20250416173059_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245785554066032796_2fd672adfa9bf6f9c1c3e589c0874891_7726bca9de421670a08dbf90c317d9ab_20250416224403_A.amr",
+      "FuseLLM/voice_split/Left_245774183811430362_f3c96b48f9cbad6966e9d24cc63cb3ab_9e83c6cca25c973acfb6aa5bbc7a5262_20250416202252_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245759279737869261_39a000f5cd1e24df5f47fd9ea36e96ef_5a8dc4219eb6d039b849de09f48fb078_20250416171747_A.amr",
+      "FuseLLM/voice_split/Left_245773750422394459_4a3a274be1953cef5b3d7576d7863c48_09a06dcc07ca93fe16821a1b09517978_20250416201729_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245778105250782624_69baf0c9047e6af1b4e28de840f1b2f9_fbe828b335a4e374b96d81e3e5edd833_20250416211133_A.amr",
+      "FuseLLM/voice_split/Left_245778105250782624_69baf0c9047e6af1b4e28de840f1b2f9_fbe828b335a4e374b96d81e3e5edd833_20250416211133_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245758389471847712_49d9809ccfca4c31f647173083fb6015_ecec29148273faffc0097229bd198b4a_20250416170644_A.amr",
+      "FuseLLM/voice_split/Left_245776467928617202_443778901e37f506f8ce010f10fec97f_46fb2737e5e1b1e01ad759713dc3578d_20250416205114_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245770014069052358_2b2edaa9ae63b80d2bc2eabaadd7bdee_a2cfd3253e34746bcd3bd34b46f365be_20250416193105_A.amr",
+      "FuseLLM/voice_split/Left_245759452199240208_a47d19335386378f77cadadfa0ab7bc9_b4d70821c99e0ebbc96dd55b1680199c_20250416171956_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245782196475459961_8ee4e63b1f45fb54c5f0f000c65a0d22_bbcec537dba816aaf9d15e7b9faa98a7_20250416220222_A.amr",
+      "FuseLLM/voice_split/Left_245763097426944772_c6ae51d6396aa62a11e82b5ae030c92e_c5507527af72ca8a6eb0b25648046b1d_20250416180512_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245774183811430362_f3c96b48f9cbad6966e9d24cc63cb3ab_9e83c6cca25c973acfb6aa5bbc7a5262_20250416202252_A.amr",
+      "FuseLLM/voice_split/Left_245783400945355257_98095f7840476bbca11a94b42440f719_c3612a9a7d784ee091fe5088e2f673de_20250416221719_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245768303195788716_5c55a0f79ea669da6c95408d4667fa8c_88dd8555175b10a13b45f2a13c50399e_20250416190950_A.amr",
+      "FuseLLM/voice_split/Left_245768303195788716_5c55a0f79ea669da6c95408d4667fa8c_88dd8555175b10a13b45f2a13c50399e_20250416190950_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245758949285416890_cb125824ffe52ff9d5ffc7a5e78a5ec8_2489f7f2d4f7c7cce1359547879cf5b0_20250416171341_A.amr",
+      "FuseLLM/voice_split/Left_245759014389426543_e4a0547d35ac46b28435b12ff4743459_e9e534f82a9f551350734e759acdb2c1_20250416171430_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245774487143318705_2081253c6d8a4ad23a6f67b9f2423626_a3720b6e9fd434ea0569f76dff6a29dc_20250416202638_A.amr",
+      "FuseLLM/voice_split/Left_245768905565042366_d218b8e29a1b4da84182844663efa5d1_9542aa72f02d51e997f2c2d743d33ad4_20250416191719_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245787557265636391_b68eccbbfca9c27cd29b83ecc9e08ee3_e8523ffe911781e5efc94e0759769fd8_20250416230856_A.amr",
+      "FuseLLM/voice_split/Left_245768968378974808_8d4b8f3faa38f4edea1dc2ee73ae605a_48eaa628ab0aab84334b09bc2add5336_20250416191806_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245790314366187135_327e7cb89bceef3e526dcd9b0994fd82_f58543d22f58e3753f30b21b661fb6c2_20250416234310_A.amr",
+      "FuseLLM/voice_split/Left_245762819462154400_eb18d18a553ffa9f13e97001bc1999f8_bf3db7680176f32bb1b980c4e234f2f1_20250416180145_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245766996720552017_3c45310e87b1acee058b27c7a69140e4_7ab336895c265d3d64ee200b7c8dbdb6_20250416185337_A.amr",
+      "FuseLLM/voice_split/Left_245761967850557874_225324315c0399817dcef986cfbcd5d7_0e0ff5d4768b21c19bae853a4f40df5d_20250416175110_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245789271226257316_9d1dbb319dbad6d98bad30f82f553f00_e5424948aae58820c73749569077176e_20250416233013_A.amr",
+      "FuseLLM/voice_split/Left_245759925451061892_3e3a4d7b24bdcda8919ee5bde66c9269_f91dcb426f45242da85ac55afa1287ef_20250416172548_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245778963170289398_1a38a7db625443fcdef2ea24a78d0f78_8049274d80001e7d95f7ff5af19d7709_20250416212213_A.amr",
+      "FuseLLM/voice_split/Left_245761562101981384_fa3b9546741fcde631825852f7608fe6_a76da1a24006b40e67845f6e019b3201_20250416174608_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245781152127192208_a8c7953b19fd8c24963debad350a0ed8_3d088e8471eb02481455f9e3cd6d13e6_20250416214924_A.amr",
+      "FuseLLM/voice_split/Left_245761820479523899_c263c23c87d405b746756a80f858092b_339480d2c61499c0855f68d12dda127b_20250416174920_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245764410210747453_d84332059f984aed2864035372ea5b4b_cd80905bb8f2313b6c76981e80d2acaa_20250416182130_A.amr",
+      "FuseLLM/voice_split/Left_245764410210747453_d84332059f984aed2864035372ea5b4b_cd80905bb8f2313b6c76981e80d2acaa_20250416182130_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245767625798781898_3d99e35eaeb2e0f3c8f233b0a9ac81b0_0ea37f074e6571b0e3490277e4bd3358_20250416190126_A.amr",
+      "FuseLLM/voice_split/Left_245782285998720995_fdf50a80b09bc6494103d8f5134e66b7_a4f0b3a6f0038c3a35830925a0c6e4f0_20250416220328_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245775976289121722_1935e4192b955528cbafe6e082ebf165_374e6695c84aa2aefa54c91bbd4e7525_20250416204507_A.amr",
+      "FuseLLM/voice_split/Left_245775976289121722_1935e4192b955528cbafe6e082ebf165_374e6695c84aa2aefa54c91bbd4e7525_20250416204507_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245777835070483176_6abee12950c8ac7ba1a6f3098edc02d7_462becc78c77c218f27c108e4d401dab_20250416210812_A.amr",
+      "FuseLLM/voice_split/Left_245767625798781898_3d99e35eaeb2e0f3c8f233b0a9ac81b0_0ea37f074e6571b0e3490277e4bd3358_20250416190126_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245781819457876323_e71732c14916d8325cf297dd6567cc96_d63cdd69ae0f8321ba2f293f04bef412_20250416215741_A.amr",
+      "FuseLLM/voice_split/Left_245768535124058635_669e84e0dfb1f5a15320054b69762493_e6690ffabb7b40d084d84c75c681068d_20250416191243_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245773208853599817_6e305be7e4ad75c7a0e6e9c3d883bf3c_9da7f07e392541d77676fd22971b0737_20250416201045_A.amr",
+      "FuseLLM/voice_split/Left_245773208853599817_6e305be7e4ad75c7a0e6e9c3d883bf3c_9da7f07e392541d77676fd22971b0737_20250416201045_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245788569804229314_f9b3a20eb2aaf53fb02f25757b64c6eb_51678440cb362b3090c4afbdfebc58b2_20250416232130_A.amr",
+      "FuseLLM/voice_split/Left_245763711875654472_ce067bfd69fd428508661b640f558da2_4984734fbde86398235d0655e1c54409_20250416181250_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245783424702062239_7d9f0c3b090a75976d97cc1f2288c9ba_3df64fc574135e94ca5a4e20c971b6a8_20250416221737_A.amr",
+      "FuseLLM/voice_split/Left_245761675927216040_1ef039fd1c8507eda2669671d30d787f_33f6e18973fb6359c975b319b1cf3bd4_20250416174733_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245784607160251563_dddb67e36ced51714bd9af5f9cff9016_a30e63e66fce30837b4f7a47b3b8bb0d_20250416223218_A.amr",
+      "FuseLLM/voice_split/Left_245784607160251563_dddb67e36ced51714bd9af5f9cff9016_a30e63e66fce30837b4f7a47b3b8bb0d_20250416223218_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245769376266420983_0f41fe29cc79257573c62901a321bbb3_940d4da188d3db5d790ab28c40aa448a_20250416192310_A.amr",
+      "FuseLLM/voice_split/Left_245769376266420983_0f41fe29cc79257573c62901a321bbb3_940d4da188d3db5d790ab28c40aa448a_20250416192310_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245771256388332936_96e59c2212753241f5c3ba2609193873_27f103d4cf1763ab655976e8dce3a02c_20250416194631_A.amr",
+      "FuseLLM/voice_split/Left_245771256388332936_96e59c2212753241f5c3ba2609193873_27f103d4cf1763ab655976e8dce3a02c_20250416194631_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245771469794543850_567fdf6a2fc5205786c7648aeb928765_b066e30b91dd5d31068632ed73992217_20250416194910_A.amr",
+      "FuseLLM/voice_split/Left_245762058170797783_4bd758fc788bde1850fa5bd7ea764c5e_003e015d632235f475bf5ede21dca10e_20250416175217_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245768434192334972_7d4ca0f080f4782ea5d7d361797097b9_cb42d27ecd42841463f660a22edce804_20250416191128_A.amr",
+      "FuseLLM/voice_split/Left_245764973522439305_d191834e8585e9ba787154eb9c18611d_cad6db9984d292e9bf5b45d96e845928_20250416182830_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245767825246533224_1de6297984d86682f577aa30cdafb9d7_d5b24804283b5d34715a342df7a167ea_20250416190354_A.amr",
+      "FuseLLM/voice_split/Left_245762110792496720_f38936914c9a82721bba20f70eeca682_d05ed61d7cea1b3d99d6f915b8b72909_20250416175257_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245761559417759163_f7f3a539184719451816467ade289c0d_3f16f1a8edeee689e95058463c257601_20250416174606_A.amr",
+      "FuseLLM/voice_split/Left_245786894632990360_32b1f5e5e939f40f59dbce68be490f7d_e4f9750a99d749971015b6e163dab920_20250416230042_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245777879228108982_eb82c64a688875d992d418e1cf72056e_59e905f8e445f868c67dc22a13618803_20250416210845_A.amr",
+      "FuseLLM/voice_split/Left_245777879228108982_eb82c64a688875d992d418e1cf72056e_59e905f8e445f868c67dc22a13618803_20250416210845_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245768836845324166_1f2a54480f8bef1b6fc6f3b66e2d12da_5b954ad8561fc384556e5e6aa18d786a_20250416191628_A.amr",
+      "FuseLLM/voice_split/Left_245765038349501528_6957b0f679e895bcec8f939f2cb58434_1fd118071fe26f03923739d06c63962e_20250416182918_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245774742693973930_8165c00957532b4cdacf98e08d404fdb_971f372816ddbfbf92fd77d5ce82eee4_20250416202948_A.amr",
+      "FuseLLM/voice_split/Left_245774742693973930_8165c00957532b4cdacf98e08d404fdb_971f372816ddbfbf92fd77d5ce82eee4_20250416202948_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245779187716815191_aebb1b5620093303e460ca4f226df362_39b3aa2ae4b3289b857b192ac6e7069c_20250416212500_A.amr",
+      "FuseLLM/voice_split/Left_245784454420163220_48ca0c64b3e0688b34bdf7f4c2842975_ff5851b59439ff1da210d369c9370042_20250416223024_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245774100999081250_c4b762de794d5d9b46a74100b90e125f_084452e66381d6532e1e1e46ace187df_20250416202150_A.amr",
+      "FuseLLM/voice_split/Left_245765757085381058_67a588981d6d8c46e889be77882b7f8f_490da9a24d4acd917ae0bfb9c99f4d94_20250416183813_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245760835724149079_c4cd60c8197d934ac445c72ef724852e_12344dfc26fdb3826b2b6bb08120f058_20250416173707_A.amr",
+      "FuseLLM/voice_split/Left_245760835724149079_c4cd60c8197d934ac445c72ef724852e_12344dfc26fdb3826b2b6bb08120f058_20250416173707_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245780365879793651_05e53db118f8067507fdb8aef483dad7_926ff9b6ad805d4c52362e3cb0043d79_20250416213938_A.amr",
+      "FuseLLM/voice_split/Left_245758467183987404_c3913dbc799d8678a7836d764a5415d9_3e0c4df0696272c720f87a27d68ab188_20250416170742_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245782453636483318_6872b52eb1fd18921c3807c8111cb7d3_780f89e3b53a9a2b9e2783839b40646a_20250416220533_A.amr",
+      "FuseLLM/voice_split/Left_245783190894730344_60edeebe62e1bb10ae9189dbffe992f3_ea03e4f370046b33709e9c2e314fdc69_20250416221443_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245757999158362620_11e4b39ac540c0936fee748ae8b7cd81_caa78eb2435d2f8cfd3069bf70fad277_20250416170153_A.amr",
+      "FuseLLM/voice_split/Left_245761673502715856_a1e25f0bfbf19ef2dc6dd3f8110a90a6_634ab78f2c2f4ec95ab63d01b25632b4_20250416174731_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245769730601400752_ba85ca58bb8a92a9d7e41340ed4001cd_946e6e385068d8dd732b9d8f219daa63_20250416192734_A.amr",
+      "FuseLLM/voice_split/Left_245765294839603169_349ea352f84059409e5c5e6d164c2ca4_9a64182335154ec252be14fd621e33fd_20250416183229_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245759366979588105_1ddebe0d7eee066c412ecffffedb5a68_5aaa13f502abd9add49e854ebeaf54a6_20250416171852_A.amr",
+      "FuseLLM/voice_split/Left_245759366979588105_1ddebe0d7eee066c412ecffffedb5a68_5aaa13f502abd9add49e854ebeaf54a6_20250416171852_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245759710837021494_d5014ff26c245fa2c7bbf2bca53b0c48_159d23a765d66336d277961c440140e8_20250416172309_A.amr",
+      "FuseLLM/voice_split/Left_245759710837021494_d5014ff26c245fa2c7bbf2bca53b0c48_159d23a765d66336d277961c440140e8_20250416172309_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245768901404156356_acb883e4c3a3d4e709796397f8d7d61b_dc4d3ff2b1fe5806af4dd521cd42e0ed_20250416191716_A.amr",
+      "FuseLLM/voice_split/Left_245768901404156356_acb883e4c3a3d4e709796397f8d7d61b_dc4d3ff2b1fe5806af4dd521cd42e0ed_20250416191716_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245761036782210283_5cf1c0c296493b715581ff8ebe17d184_34ed521a4230c7ce94e37a907d779b1b_20250416173936_A.amr",
+      "FuseLLM/voice_split/Left_245783840374044372_4a6cee4c9670b5c9ee6d0e7aac83a2f6_b7a804a06b02db30505424c9647cb94c_20250416222246_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245768434192334972_7d4ca0f080f4782ea5d7d361797097b9_cb42d27ecd42841463f660a22edce804_20250416191128_A.amr",
+      "FuseLLM/voice_split/Left_245773140268527352_526a59f5035753397b0fa09dd6ba5a4e_4c7760ae5988f3b2dfab65ea27ed0684_20250416200954_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245759303352005168_493d9fdebc28cbc3dfb8dd0c1071a869_a722623c5a95843fc7cbfbe6817a3abf_20250416171805_A.amr",
+      "FuseLLM/voice_split/Left_245764889770491104_7003fefae686abea1ccfadb48f99bebc_217c67f95280baeccf2b72115e97b5ae_20250416182727_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245776786695603287_0204717515e959cf6ee4a2b1e4a2057d_f502d291fd77c181cead6e2db352b66c_20250416205511_A.amr",
+      "FuseLLM/voice_split/Left_245776786695603287_0204717515e959cf6ee4a2b1e4a2057d_f502d291fd77c181cead6e2db352b66c_20250416205511_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245765889826994825_182a127ddfaedcac377c70464df56f25_01a1fa358fa6a8e8940601860cb21a7d_20250416183952_A.amr",
+      "FuseLLM/voice_split/Left_245765889826994825_182a127ddfaedcac377c70464df56f25_01a1fa358fa6a8e8940601860cb21a7d_20250416183952_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245759728553497244_cfb4ac75f5780fdade45ab18a069e07c_b595c191831df77b9d9ab9eff19fe0b8_20250416172322_A.amr",
+      "FuseLLM/voice_split/Left_245771515294389156_6b665477e068e4415a411a3c6bdb6347_a23a5569d4d49fe28d29b6fd6c27bdf3_20250416194944_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245766428174095935_b0d65f26840420f66a898626f8ad7215_06fa84df5b9632d3d723be38bd9343a2_20250416184633_A.amr",
+      "FuseLLM/voice_split/Left_245759710837021494_d5014ff26c245fa2c7bbf2bca53b0c48_159d23a765d66336d277961c440140e8_20250416172309_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245762497331314044_b0ff0024137e58b507080fcc553df528_a7e29d4d97aa94d757dd78417f40b279_20250416175745_A.amr",
+      "FuseLLM/voice_split/Left_245762497331314044_b0ff0024137e58b507080fcc553df528_a7e29d4d97aa94d757dd78417f40b279_20250416175745_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245781082468451196_af3fe8219956e346114c3aeba8a0f1b7_ed19e325c7e7724745f9133f5f89bea5_20250416214832_A.amr",
+      "FuseLLM/voice_split/Left_245787562768584988_a6f90f37783e85120ee12bff2dfad0bc_c69e5e00118a48b7578ca3696b270bd1_20250416230900_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245765172298995831_d937b4ccb3c348ed37b1df137e597bb7_ecead1cce817ce42e1ba320a97fbf0da_20250416183058_A.amr",
+      "FuseLLM/voice_split/Left_245766409786287490_9242680dd2cbc4cd9963260bde6b45ba_09232237ed738887bd52c46c4c28ccdf_20250416184620_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245769449951931353_7499f0e5b732b0cc188b0bdd68f20a19_4f3a4de7fe7b2452608c63c9ffd79394_20250416192405_A.amr",
+      "FuseLLM/voice_split/Left_245769338954077015_70b5ac01b2de0f46d2dcacb5985c05ec_6c5bec94c163c860954e71bcab7a34c4_20250416192242_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245763097426944772_c6ae51d6396aa62a11e82b5ae030c92e_c5507527af72ca8a6eb0b25648046b1d_20250416180512_A.amr",
+      "FuseLLM/voice_split/Left_245789277534518343_b69227a25feb4fb833431f3933a82e9f_259a9842d75eac51b8d33854e5847d9a_20250416233017_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245781583368750461_466fa246bc6bf3847f0bfab2d16322ff_c3d8ec67e426d4e91e7f30245655e074_20250416215445_A.amr",
+      "FuseLLM/voice_split/Left_245766812976334698_a0eb8d8891567e890da35b5b953faf47_fa607c78fc357bfaf0cb5b5f52f87d75_20250416185120_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245769930048987837_d4ffa516a8dad72fe32aea8fb900d3b8_7ce1fa5d75f5f25551c55ba655f6ee37_20250416193002_A.amr",
+      "FuseLLM/voice_split/Left_245785542120838977_bd31591ec838a3f9c2d3bc54f925dae0_eef786ae7c505f73dbbb59dc93cd38ef_20250416224354_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245777448254911920_3771ac95df2600e08d2189478f9cafa8_d1ab1b5e18b1ede8a10771c05f0c4752_20250416210324_A.amr",
+      "FuseLLM/voice_split/Left_245767396957594214_59520cdbf5b2c3f79391f1c0adb2dfce_3bbfb7cac7f3d967c7340a4b05709a7e_20250416185835_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245762771277810633_495d44028b881aa1a7cf2fcba66c8f57_5ab5262992bb105465948ec5cb92a974_20250416180109_A.amr",
+      "FuseLLM/voice_split/Left_245771442011566644_81c1e12adf62121f13e6ad3bccb2bd7f_993b6472d6880356defedef597db7938_20250416194849_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "是",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245773140268527352_526a59f5035753397b0fa09dd6ba5a4e_4c7760ae5988f3b2dfab65ea27ed0684_20250416200954_A.amr",
+      "FuseLLM/voice_split/Left_245773140268527352_526a59f5035753397b0fa09dd6ba5a4e_4c7760ae5988f3b2dfab65ea27ed0684_20250416200954_B.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245788584299739561_3b78e887cb79cc5b03038c20c91649f3_1743999dca3f8b254a7f9161abc71c76_20250416232141_A.amr",
+      "FuseLLM/voice_split/Left_245769709931914906_75d9574f6b72a826ccff3604f732aa9b_3af8998792d7180ae73af4d82364f163_20250416192718_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245770343439623386_79fc697e92f6fbeb2555d95a9e3357c5_d2110b84ce2102f5f64f1a6e79f5afe2_20250416193510_A.amr",
+      "FuseLLM/voice_split/Left_245786120867571321_2c2ede78759a1552812c547ebb554497_ac8dac64ef3c1fd0bedee7945d85505a_20250416225106_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245762297623682587_133454c8ab61409e7c7500ba16c91dd6_ac8d16e2933106114f7574ee740a4e78_20250416175516_A.amr",
+      "FuseLLM/voice_split/Left_245791079810160471_4a6027689feef3be47c715511c793c3a_0f727927f5238d5a4e2423bc133fe269_20250416235240_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245770381959849995_4a4426104e1ea37f1a54e1ca6be423e7_a53634cdfbe95f1f40e9c24dc969164b_20250416193539_A.amr",
+      "FuseLLM/voice_split/Left_245764927619952541_7c9bc609d68a2aab377dc500a42ab636_1960ecf98d16990f4d4c44a75c3eafd9_20250416182755_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245764867758811187_cdb5e819fa77c83e6dd89f56cc7e3b77_43c2bbb184a6c406590069f0d2041c16_20250416182711_A.amr",
+      "FuseLLM/voice_split/Left_245766352341231147_24521f044013332f9e24e036679ff553_494d6e6e7a0053a26f047b803643658e_20250416184537_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245762819462154400_eb18d18a553ffa9f13e97001bc1999f8_bf3db7680176f32bb1b980c4e234f2f1_20250416180145_A.amr",
+      "FuseLLM/voice_split/Left_245765334433834583_34b19572c3e9e59a783518c44cffcc01_353d6546024cd9e7ba50e99c25cd3c80_20250416183258_A.amr"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "音频1<audio>音频2<audio>判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。",
+        "role": "user"
+      },
+      {
+        "content": "否",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "FuseLLM/voice_split/Left_245760264896219152_ab370f9596a7149c824af4a5668695d3_fa2c95310c6af3a13a4b8085c7bd9544_20250416173001_A.amr",
+      "FuseLLM/voice_split/Left_245760342733785718_a12dc682f35503fa808d94feed162ff7_c35ec1cd4c3d2caea0fc301f600cb1ef_20250416173059_A.amr"
+    ]
+  }
+]

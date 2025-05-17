@@ -1,1 +1,1 @@
-modelscope download --model 'Qwen/Qwen2.5-Omni-3B'  --local_dir '/data/liangjh/model_set/Qwen2.5-Omni-3B'
+modelscope download --model 'Qwen/Qwen2.5-3B-Instruct'  --local_dir '/data/liangjh/model_set/Qwen2.5-3B-Instruct'

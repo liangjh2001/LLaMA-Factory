@@ -10,32 +10,58 @@ from sklearn.metrics import confusion_matrix, classification_report
 
 # 解析命令行参数
 parser = argparse.ArgumentParser(description='Qwen音频推理评估')
-parser.add_argument('--task', type=str, default='emotion', choices=['deepfake', 'emotion'],
-                   help='评估任务类型: deepfake (音频深度伪造检测) 或 emotion (情绪识别)')
+parser.add_argument('--task', type=str, default='emotion', choices=['deepfake', 'emotion', 'speaker_recognition'],
+                   help='评估任务类型: deepfake (音频深度伪造检测) 或 emotion (情绪识别) 或 speaker_recognition (说话人识别)')
 parser.add_argument('--model_path', type=str, 
                    default="/data/liangjh/LLaMA-Factory/output/Qwen2-Audio-7B-Instruct-audio_emotion_train/checkpoint-800/full-model",
                    help='预训练模型路径')
 args = parser.parse_args()
 
 # 加载预训练模型
-path = args.model_path
-#path = "/data/liangjh/LLaMA-Factory/output/Qwen2-Audio-7B-Instruct-audio_deepfake_train/checkpoint-1600/full-model"
-processor = AutoProcessor.from_pretrained(path)
-model = Qwen2AudioForConditionalGeneration.from_pretrained(path, device_map="auto")
+model_load_path = args.model_path
+processor = AutoProcessor.from_pretrained(model_load_path)
+model = Qwen2AudioForConditionalGeneration.from_pretrained(model_load_path, device_map="auto")
+
+# --- Derive paths for output files based on model_load_path ---
+checkpoint_dir_full = os.path.dirname(model_load_path) # e.g., .../checkpoint-800
+base_output_dir = os.path.dirname(checkpoint_dir_full) # e.g., .../Qwen2-Audio-7B-Instruct-audio_emotion_train
+
+# Define the target directory for results as a subdirectory named 'results'
+output_file_target_dir = os.path.join(base_output_dir, "results")
+
+model_name_for_filename = os.path.basename(base_output_dir) # e.g., Qwen2-Audio-7B-Instruct-audio_emotion_train
+checkpoint_folder_name = os.path.basename(checkpoint_dir_full) # e.g., checkpoint-800
+checkpoint_id_for_filename = checkpoint_folder_name.replace("checkpoint-", "ckpt-") # e.g., ckpt-800
+
+# Ensure the target directory for output files (including the 'results' subdirectory) exists
+os.makedirs(output_file_target_dir, exist_ok=True)
+# --- End of path derivation ---
 
 # 根据任务类型设置路径
 if args.task == 'deepfake':
     test_path = '/data/liangjh/LLaMA-Factory/data/audio_deepfake_test.json'
-    results_path = '/data/liangjh/LLaMA-Factory/data/audio_deepfake_results.json'
-    report_path = '/data/liangjh/LLaMA-Factory/data/audio_deepfake_evaluation_report.json'
+    results_filename = f"audio_deepfake_results_{model_name_for_filename}_{checkpoint_id_for_filename}.json"
+    results_path = os.path.join(output_file_target_dir, results_filename)
+    report_filename = f"audio_deepfake_evaluation_report_{model_name_for_filename}_{checkpoint_id_for_filename}.json"
+    report_path = os.path.join(output_file_target_dir, report_filename)
     prompt = "判断上述音频对话是否是AI生成的。请从以下选项中选择：是，否。"
     print(f"执行音频深度伪造检测任务")
-else:  # emotion
+elif args.task == 'emotion':
     test_path = '/data/liangjh/LLaMA-Factory/data/audio_emotion_test.json'
-    results_path = '/data/liangjh/LLaMA-Factory/data/audio_emotion_results.json'
-    report_path = '/data/liangjh/LLaMA-Factory/data/audio_emotion_evaluation_report.json'
+    results_filename = f"audio_emotion_results_{model_name_for_filename}_{checkpoint_id_for_filename}.json"
+    results_path = os.path.join(output_file_target_dir, results_filename)
+    report_filename = f"audio_emotion_evaluation_report_{model_name_for_filename}_{checkpoint_id_for_filename}.json"
+    report_path = os.path.join(output_file_target_dir, report_filename)
     prompt = "识别上述音频对话中表达的情感。请从以下选项中选择：愤怒，开心，厌恶，中性。"
     print(f"执行音频情绪识别任务")
+else:  # speaker_recognition
+    test_path = '/data/liangjh/LLaMA-Factory/data/audio_speaker_recognition_test.json'
+    results_filename = f"audio_speaker_recognition_results_{model_name_for_filename}_{checkpoint_id_for_filename}.json"
+    results_path = os.path.join(output_file_target_dir, results_filename)
+    report_filename = f"audio_speaker_recognition_evaluation_report_{model_name_for_filename}_{checkpoint_id_for_filename}.json"
+    report_path = os.path.join(output_file_target_dir, report_filename)
+    prompt = "判断上述两个音频对话是否来自同一说话人。请从以下选项中选择：是，否。"
+    print(f"执行说话人识别任务")
 
 audio_base_dir = '/data/liangjh/LLaMA-Factory/data/'  # 音频文件的基础目录
 
@@ -55,11 +81,11 @@ if args.task == 'emotion':
     labels = ['愤怒', '开心', '厌恶', '中性']
     class_correct = {label: 0 for label in labels}
     class_total = {label: 0 for label in labels}
-else:  # deepfake
-    fake_correct = 0
-    fake_total = 0
-    real_correct = 0
-    real_total = 0
+else:  # deepfake or speaker_recognition
+    positive_class_correct = 0
+    positive_class_total = 0
+    negative_class_correct = 0
+    negative_class_total = 0
 
 # 结果记录
 results = []
@@ -69,79 +95,90 @@ pred_labels = []
 # 遍历测试数据并进行推理
 for sample in tqdm(test_data, desc="处理音频样本"):
     try:
-        # 获取音频文件路径和真实标签
-        audio_rel_path = sample["audios"][0]
-        audio_full_path = os.path.join(audio_base_dir, audio_rel_path)
         true_label = sample["messages"][1]["content"]
+        audios_for_processor = []
         
-        # 创建会话格式
-        conversation = [
-            {'role': 'system', 'content': 'You are a helpful assistant.'}, 
-            {"role": "user", "content": [
-                {"type": "audio", "audio_url": audio_full_path},
-                {"type": "text", "text": prompt},
-            ]},
-        ]
-        
+        if args.task == 'speaker_recognition':
+            audio_rel_path_1 = sample["audios"][0]
+            audio_full_path_1 = os.path.join(audio_base_dir, audio_rel_path_1)
+            audio_rel_path_2 = sample["audios"][1]
+            audio_full_path_2 = os.path.join(audio_base_dir, audio_rel_path_2)
+
+            # 为说话人识别任务构建正确的conversation格式
+            conversation = [
+                {'role': 'system', 'content': 'You are a helpful assistant.'}, 
+                {"role": "user", "content": [
+                    {"type": "text", "text": "音频1"},
+                    {"type": "audio", "audio_url": audio_full_path_1},
+                    {"type": "text", "text": "音频2"},
+                    {"type": "audio", "audio_url": audio_full_path_2},
+                    {"type": "text", "text": prompt}, # 使用纯文本prompt
+                ]},
+            ]
+            audio_array_1, _ = librosa.load(audio_full_path_1, sr=processor.feature_extractor.sampling_rate)
+            audios_for_processor.append(audio_array_1)
+            audio_array_2, _ = librosa.load(audio_full_path_2, sr=processor.feature_extractor.sampling_rate)
+            audios_for_processor.append(audio_array_2)
+            display_audio_rel_path = f"{audio_rel_path_1}, {audio_rel_path_2}"
+        else: # deepfake or emotion (single audio tasks)
+            audio_rel_path = sample["audios"][0]
+            audio_full_path = os.path.join(audio_base_dir, audio_rel_path)
+            display_audio_rel_path = audio_rel_path
+
+            conversation = [
+                {'role': 'system', 'content': 'You are a helpful assistant.'}, 
+                {"role": "user", "content": [
+                    {"type": "audio", "audio_url": audio_full_path},
+                    {"type": "text", "text": prompt},
+                ]},
+            ]
+            audio_array, _ = librosa.load(audio_full_path, sr=processor.feature_extractor.sampling_rate)
+            audios_for_processor.append(audio_array)
+
         # 准备输入
         text = processor.apply_chat_template(conversation, add_generation_prompt=True, tokenize=False)
-        audios = []
         
-        # 加载音频文件
-        audio_array, _ = librosa.load(audio_full_path, sr=processor.feature_extractor.sampling_rate)
-        audios.append(audio_array)
-        
-        # 处理输入并生成
-        inputs = processor(text=text, audios=audios, return_tensors="pt", padding=True)
+        inputs = processor(text=text, audios=audios_for_processor, return_tensors="pt", padding=True)
         inputs.input_ids = inputs.input_ids.to("cuda")
         
         generate_ids = model.generate(**inputs, max_length=512)
         generate_ids = generate_ids[:, inputs.input_ids.size(1):]
         
-        # 解码预测结果
         predicted_text = processor.batch_decode(generate_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]
         
-        # 根据任务类型处理预测结果
-        if args.task == 'deepfake':
-            # 简单处理预测结果，确保其中只包含"是"或"否"
+        if args.task == 'deepfake' or args.task == 'speaker_recognition':
             predicted_label = "是" if "是" in predicted_text and "否" not in predicted_text else "否"
         else:  # emotion
-            # 查找情绪标签
-            for label in labels:
-                if label in predicted_text:
-                    predicted_label = label
+            for label_option in labels: # Changed from `label` to `label_option` to avoid conflict
+                if label_option in predicted_text:
+                    predicted_label = label_option
                     break
             else:
-                # 如果没有找到匹配的标签，选择一个默认值
                 predicted_label = "中性"
         
-        # 记录结果
         results.append({
-            "audio_url": audio_rel_path,
+            "audio_url": display_audio_rel_path, 
             "true_label": true_label,
             "predicted_label": predicted_label,
             "raw_prediction": predicted_text
         })
         
-        # 保存用于生成混淆矩阵的标签
         true_labels.append(true_label)
         pred_labels.append(predicted_label)
         
-        # 检查预测是否正确
         is_correct = (predicted_label == true_label)
         if is_correct:
             correct_predictions += 1
         
-        # 根据任务类型更新各类别的统计数据
-        if args.task == 'deepfake':
-            if true_label == "是":  # AI生成的音频
-                fake_total += 1
+        if args.task == 'deepfake' or args.task == 'speaker_recognition':
+            if true_label == "是":
+                positive_class_total += 1
                 if is_correct:
-                    fake_correct += 1
-            else:  # 真实音频
-                real_total += 1
+                    positive_class_correct += 1
+            else: 
+                negative_class_total += 1
                 if is_correct:
-                    real_correct += 1
+                    negative_class_correct += 1
         else:  # emotion
             class_total[true_label] = class_total.get(true_label, 0) + 1
             if is_correct:
@@ -149,7 +186,6 @@ for sample in tqdm(test_data, desc="处理音频样本"):
         
         total_predictions += 1
         
-        # 打印进度
         if total_predictions % 10 == 0:
             print(f"当前准确率: {correct_predictions/total_predictions:.4f}")
             
@@ -167,48 +203,41 @@ report = {
     "总体准确率": accuracy,
 }
 
-if args.task == 'deepfake':
-    # 计算各类别的准确率
-    fake_accuracy = fake_correct / fake_total if fake_total > 0 else 0
-    real_accuracy = real_correct / real_total if real_total > 0 else 0
+if args.task == 'deepfake' or args.task == 'speaker_recognition':
+    positive_label_name = "AI生成" if args.task == 'deepfake' else "同一说话人"
+    negative_label_name = "真实音频" if args.task == 'deepfake' else "不同说话人"
+
+    positive_accuracy = positive_class_correct / positive_class_total if positive_class_total > 0 else 0
+    negative_accuracy = negative_class_correct / negative_class_total if negative_class_total > 0 else 0
     
-    print(f"AI生成音频的准确率: {fake_accuracy:.4f} ({fake_correct}/{fake_total})")
-    print(f"真实音频的准确率: {real_accuracy:.4f} ({real_correct}/{real_total})")
+    print(f"{positive_label_name}的准确率: {positive_accuracy:.4f} ({positive_class_correct}/{positive_class_total})")
+    print(f"{negative_label_name}的准确率: {negative_accuracy:.4f} ({negative_class_correct}/{negative_class_total})")
     
-    # 计算更多评估指标
-    # 将"是"（AI生成）视为正类
-    true_positives = fake_correct  # 正确预测为"是"的样本数
-    false_positives = real_total - real_correct  # 错误预测为"是"的样本数
-    false_negatives = fake_total - fake_correct  # 错误预测为"否"的样本数
-    true_negatives = real_correct  # 正确预测为"否"的样本数
+    true_positives = positive_class_correct
+    false_positives = negative_class_total - negative_class_correct
+    false_negatives = positive_class_total - positive_class_correct
+    true_negatives = negative_class_correct
     
-    # 精确率 = TP / (TP + FP)
     precision = true_positives / (true_positives + false_positives) if (true_positives + false_positives) > 0 else 0
-    
-    # 召回率 = TP / (TP + FN)
     recall = true_positives / (true_positives + false_negatives) if (true_positives + false_negatives) > 0 else 0
-    
-    # F1分数 = 2 * (精确率 * 召回率) / (精确率 + 召回率)
     f1_score = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
     
     print(f"\n精确率: {precision:.4f}")
     print(f"召回率: {recall:.4f}")
     print(f"F1分数: {f1_score:.4f}")
     
-    # 打印混淆矩阵
     print("\n混淆矩阵:")
-    print(f"真实\\预测 | 是（AI生成） | 否（真实音频）")
-    print(f"是（AI生成） | {true_positives:12d} | {false_negatives:14d}")
-    print(f"否（真实音频）| {false_positives:12d} | {true_negatives:14d}")
+    print(f"真实\预测 | 是 ({positive_label_name}) | 否 ({negative_label_name})")
+    print(f"是 ({positive_label_name}) | {true_positives:12d} | {false_negatives:14d}")
+    print(f"否 ({negative_label_name})| {false_positives:12d} | {true_negatives:14d}")
     
-    # 添加到报告
     report.update({
-        "AI生成音频样本数": fake_total,
-        "AI生成音频正确预测数": fake_correct,
-        "AI生成音频准确率": fake_accuracy,
-        "真实音频样本数": real_total,
-        "真实音频正确预测数": real_correct,
-        "真实音频准确率": real_accuracy,
+        f"{positive_label_name}_样本数": positive_class_total,
+        f"{positive_label_name}_正确预测数": positive_class_correct,
+        f"{positive_label_name}_准确率": positive_accuracy,
+        f"{negative_label_name}_样本数": negative_class_total,
+        f"{negative_label_name}_正确预测数": negative_class_correct,
+        f"{negative_label_name}_准确率": negative_accuracy,
         "精确率": precision,
         "召回率": recall,
         "F1分数": f1_score,
@@ -220,32 +249,28 @@ if args.task == 'deepfake':
         }
     })
     
-else:  # emotion
-    # 计算每个情绪类别的准确率
+elif args.task == 'emotion': # Corrected from else to elif
     emotion_accuracies = {}
-    for label in labels:
-        if class_total.get(label, 0) > 0:
-            accuracy = class_correct.get(label, 0) / class_total.get(label, 0)
-            emotion_accuracies[label] = accuracy
-            print(f"{label}的准确率: {accuracy:.4f} ({class_correct.get(label, 0)}/{class_total.get(label, 0)})")
+    for label_option_report in labels: # Changed variable name to avoid conflict
+        if class_total.get(label_option_report, 0) > 0:
+            acc = class_correct.get(label_option_report, 0) / class_total.get(label_option_report, 0)
+            emotion_accuracies[label_option_report] = acc
+            print(f"{label_option_report}的准确率: {acc:.4f} ({class_correct.get(label_option_report, 0)}/{class_total.get(label_option_report, 0)})")
     
-    # 使用sklearn生成详细的分类报告
-    class_report = classification_report(true_labels, pred_labels, output_dict=True)
+    class_report_dict = classification_report(true_labels, pred_labels, labels=labels, output_dict=True, zero_division=0) # Added labels and zero_division
     print("\n分类报告:")
-    print(classification_report(true_labels, pred_labels))
+    print(classification_report(true_labels, pred_labels, labels=labels, zero_division=0)) # Added labels and zero_division
     
-    # 计算混淆矩阵
     cm = confusion_matrix(true_labels, pred_labels, labels=labels)
     print("\n混淆矩阵:")
     print("预测 →")
-    print("真实 ↓  " + " ".join([f"{label:8s}" for label in labels]))
-    for i, label in enumerate(labels):
-        print(f"{label:6s} " + " ".join([f"{cm[i, j]:8d}" for j in range(len(labels))]))
+    print("真实 ↓  " + " ".join([f"{label_cm:8s}" for label_cm in labels])) # Changed variable name
+    for i, label_row in enumerate(labels): # Changed variable name
+        print(f"{label_row:6s} " + " ".join([f"{cm[i, j]:8d}" for j in range(len(labels))]))
     
-    # 添加到报告
     report.update({
         "各情绪类别准确率": emotion_accuracies,
-        "分类报告": class_report,
+        "分类报告": class_report_dict, # use the dict version
         "混淆矩阵": cm.tolist()
     })
 
@@ -258,3 +283,4 @@ print(f"详细结果已保存到: {results_path}")
 with open(report_path, 'w', encoding='utf-8') as f:
     json.dump(report, f, indent=2, ensure_ascii=False)
 print(f"评估报告已保存到: {report_path}")
+

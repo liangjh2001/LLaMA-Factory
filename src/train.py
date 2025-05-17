@@ -13,6 +13,10 @@
 # limitations under the License.
 
 from llamafactory.train.tuner import run_exp
+import warnings
+warnings.filterwarnings("ignore", category=UserWarning)
+warnings.filterwarnings("ignore", category=FutureWarning)
+
 
 
 def main():

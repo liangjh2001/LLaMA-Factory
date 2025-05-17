@@ -21,3 +21,6 @@ sse-starlette
 matplotlib
 fire
 galore-torch
+math-verify==0.5.2
+omegaconf
+librosa

@@ -760,6 +760,34 @@
       "user_tag": "user",
       "assistant_tag": "assistant"
     }
+  },
+  "audio_speaker_recognition_train": {
+    "file_name": "audio_speaker_recognition_train.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "audios": "audios"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "audio_speaker_recognition_test": {
+    "file_name": "audio_speaker_recognition_test.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "audios": "audios"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
   } 
 }
 
