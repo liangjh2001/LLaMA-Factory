@@ -7,13 +7,16 @@ import argparse
 from tqdm import tqdm
 from transformers import Qwen2AudioForConditionalGeneration, AutoProcessor
 from sklearn.metrics import confusion_matrix, classification_report
+import warnings
+warnings.filterwarnings("ignore", category=UserWarning)
+warnings.filterwarnings("ignore", category=FutureWarning)
 
 # 解析命令行参数
 parser = argparse.ArgumentParser(description='Qwen音频推理评估')
-parser.add_argument('--task', type=str, default='emotion', choices=['deepfake', 'emotion', 'speaker_recognition'],
+parser.add_argument('--task', type=str, default='speaker_recognition', choices=['deepfake', 'emotion', 'speaker_recognition'],
                    help='评估任务类型: deepfake (音频深度伪造检测) 或 emotion (情绪识别) 或 speaker_recognition (说话人识别)')
 parser.add_argument('--model_path', type=str, 
-                   default="/data/liangjh/LLaMA-Factory/output/Qwen2-Audio-7B-Instruct-audio_emotion_train/checkpoint-800/full-model",
+                   default="/data/liangjh/LLaMA-Factory/output/Qwen2-Audio-7B-Instruct-audio_deepfake_emotion_speaker_train/checkpoint-6180/full-model",
                    help='预训练模型路径')
 args = parser.parse_args()
 
@@ -141,7 +144,7 @@ for sample in tqdm(test_data, desc="处理音频样本"):
         inputs = processor(text=text, audios=audios_for_processor, return_tensors="pt", padding=True)
         inputs.input_ids = inputs.input_ids.to("cuda")
         
-        generate_ids = model.generate(**inputs, max_length=512)
+        generate_ids = model.generate(**inputs, max_length=700)
         generate_ids = generate_ids[:, inputs.input_ids.size(1):]
         
         predicted_text = processor.batch_decode(generate_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]

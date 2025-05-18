@@ -16,11 +16,6 @@ from vllm import LLM, EngineArgs, SamplingParams
 from vllm.assets.audio import AudioAsset
 from vllm.utils import FlexibleArgumentParser
 
-audio_assets = [AudioAsset("mary_had_lamb")]
-question_per_audio_count = {
-    0: "What is 1+1?",
-    1: "What is recited in the audio?",
-}
 
 
 class ModelRequestData(NamedTuple):
@@ -55,10 +50,6 @@ def run_qwen2_audio(question: str, audio_count: int) -> ModelRequestData:
               f"{audio_in_prompt}{question}<|im_end|>\n"
               "<|im_start|>assistant\n")
 
-    return ModelRequestData(
-        engine_args=engine_args,
-        prompt=prompt,
-    )
 
 
 def main(args):
@@ -71,7 +62,7 @@ def main(args):
 
     # We set temperature to 0.2 so that outputs can be different
     # even when all prompts are identical when running batch inference.
-    sampling_params = SamplingParams(temperature=0.2,
+    sampling_params = SamplingParams(temperature=0.0,
                                      max_tokens=64,
                                      stop_token_ids=req_data.stop_token_ids)
 
@@ -86,9 +77,6 @@ def main(args):
 
     assert args.num_prompts > 0
     inputs = {"prompt": req_data.prompt, "multi_modal_data": mm_data}
-    if args.num_prompts > 1:
-        # Batch inference
-        inputs = [inputs] * args.num_prompts
 
     outputs = llm.generate(inputs, sampling_params=sampling_params)
 
@@ -108,7 +96,7 @@ if __name__ == "__main__":
     parser.add_argument("--num-audios",
                         type=int,
                         default=1,
-                        choices=[0, 1],
+                        choices=[0, 1, 2],
                         help="Number of audio items per prompt.")
     parser.add_argument("--seed",
                         type=int,

@@ -2,9 +2,9 @@
 export CUDA_VISIBLE_DEVICES=0
 
 base_model="/data/liangjh/model_set/Qwen2-Audio-7B-Instruct"
-lora_model="Qwen2-Audio-7B-Instruct-audio_emotion_train"
+lora_model="Qwen2-Audio-7B-Instruct-audio_deepfake_train_noeval"
 template="qwen2_audio"
-checkpoint="800"
+checkpoint="1600"
 
 
 echo "----------------------------merge lora weight----------------------------"
