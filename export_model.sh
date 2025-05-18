@@ -2,9 +2,9 @@
 export CUDA_VISIBLE_DEVICES=0
 
 base_model="/data/liangjh/model_set/Qwen2-Audio-7B-Instruct"
-lora_model="Qwen2-Audio-7B-Instruct-audio_deepfake_train_noeval"
+lora_model="Qwen2-Audio-7B-Instruct-audio_speaker_recognition_train"
 template="qwen2_audio"
-checkpoint="1600"
+checkpoint="9450"
 
 
 echo "----------------------------merge lora weight----------------------------"
